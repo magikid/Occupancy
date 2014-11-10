@@ -25,10 +25,10 @@ pointCameraAtLight ()
     #set cam flag
     is_cam_pointed_at_wall=false
     #move camera to preset OCS2, wait for it to finish
-    curl http://${OCS_AXISCAMERA_IP}/axis-cgi/com/ptz.cgi?gotoserverpresetname=OCS2&camera=1
+    curl "http://${OCS_AXISCAMERA_IP}/axis-cgi/com/ptz.cgi?gotoserverpresetname=OCS2&camera=1"
     sleep 2
     #change light sensitivity and wait
-    curl http://${OCS_AXISCAMERA_IP}/axis-cgi/com/ptz.cgi?camera=1&irisbar=185&alignment=horisontal&barcoord=80,0
+    curl "http://${OCS_AXISCAMERA_IP}/axis-cgi/com/ptz.cgi?camera=1&irisbar=185&alignment=horisontal&barcoord=80,0"
     sleep 8
 }
 
@@ -39,13 +39,13 @@ pointCameraAtLight ()
 getWallPicture () 
 {
     is_cam_pointed_at_wall=true
-    curl http://${OCS_AXISCAMERA_IP}/axis-cgi/com/ptz.cgi?gotoserverpresetname=TheWall&camera=1
+    curl "http://${OCS_AXISCAMERA_IP}/axis-cgi/com/ptz.cgi?gotoserverpresetname=TheWall&camera=1"
     sleep 3
-    curl http://${OCS_AXISCAMERA_IP}/axis-cgi/com/ptz.cgi?camera=1&rzoom=-2500
+    curl "http://${OCS_AXISCAMERA_IP}/axis-cgi/com/ptz.cgi?camera=1&rzoom=-2500"
     sleep 1
-    curl http://${OCS_AXISCAMERA_IP}/axis-cgi/com/ptz.cgi?camera=1&rzoom=+2500
+    curl "http://${OCS_AXISCAMERA_IP}/axis-cgi/com/ptz.cgi?camera=1&rzoom=+2500"
     sleep 4
-    wget http://${OCS_AXISCAMERA_IP}/axis-cgi/jpg/image.cgi -q -O $OCS_TMP_WALL
+    wget "http://${OCS_AXISCAMERA_IP}/axis-cgi/jpg/image.cgi -q -O ${OCS_TMP_WALL}"
     sleep 1
 }
 
@@ -56,7 +56,7 @@ getWallPicture ()
 getBrightness ()
 {
     # copy pic to tmp
-    wget http://${OCS_AXISCAMERA_IP}/axis-cgi/jpg/image.cgi -q -O $OCS_TMP_LIGHT
+    wget "http://${OCS_AXISCAMERA_IP}/axis-cgi/jpg/image.cgi -q -O ${OCS_TMP_LIGHT}"
     # average all the grayscale pics to determine/set light brightness level
     level=`convert $OCS_TMP_LIGHT -colorspace gray -format "%[fx:mean]" info:|cut -c3-5`
 }
@@ -84,7 +84,7 @@ END_SCRIPT1
 #   moves the /tmp/thewall.jpg file to the websites status file
 pushWallToWebsite ()
 {
-    stamp=`date +"%F%T"`
+    stamp="$(date) %F%T"
     ftp -n ${OCS_UAS_URL} <<END_SCRIPT2
         quote USER $OCS_UAS_USER
         quote PASS $OCS_UAS_PASS
@@ -116,7 +116,7 @@ main ()
     is_cam_pointed_at_wall=false
     is_occupied=false
     is_overridden=false
-    echo date + " STARTING ocs.sh" >> $OCS_LOGFILE
+    echo "$(date) STARTING ocs.sh" >> $OCS_LOGFILE
 
     #Loop
     while true; do
@@ -140,13 +140,13 @@ main ()
                 #Play sound
                 mplayer $OCS_WAV_CLOSED_COMMAND
                 #Update flags, IRC, website status file, checkin, logging
-                echo -n "The space has been closed since " + date + " %T %F" > $OCS_TMP_STATUS
+                echo -n "The space has been closed since $(date) %T %F" > $OCS_TMP_STATUS
                 #website status
                 pushStatusToWebsite
                 #checkin
                 python $OCS_CHECKIN_SCRIPT closing
                 #logging
-                echo date + " set to CLOSED" >> $OCS_LOGFILE
+                echo "$(date) set to CLOSED" >> $OCS_LOGFILE
             fi
         #If status changes unoccupied to occupied (Turn on)
         else
@@ -155,7 +155,7 @@ main ()
                 #Play sound
                 mplayer $OCS_WAV_OPEN_COMMAND
                 #status file
-                echo -n "The space has been open since " + date + " %T %F" > $OCS_TMP_STATUS
+                echo -n "The space has been open since $(date) %T %F" > $OCS_TMP_STATUS
                 #website status
                 pushStatusToWebsite
                 #Tweet (not correct yet)
@@ -169,7 +169,7 @@ main ()
                 getWallPicture
                 pushWallToWebsite
                 #logging
-                echo date + " set to OPEN" >> $OCS_LOGFILE
+                echo "$(date) set to OPEN" >> $OCS_LOGFILE
             fi
         fi
     done

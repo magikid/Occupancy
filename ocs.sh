@@ -97,7 +97,7 @@ END_SCRIPT2
     nc $OCS_IRC_IP $OCS_IRC_PORT !JSON \
         {"Service":$OCS_IRC_SERVICE, \
         "Key":$OCS_IRC_KEY, \
-        "Data":"New Wall Image: http://${OCS_UAS_WALL_ARCHIVE_FILEPATH}/$stamp.jpg"} &>/dev/null
+        "Data":"New Wall Image: http://${OCS_UAS_WALL_ARCHIVE_FILEPATH}/${stamp}.jpg"} &>/dev/null
 }
 
 

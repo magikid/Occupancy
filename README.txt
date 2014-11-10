@@ -8,6 +8,7 @@ Get running notes:
 * make the scripts executable using 'chmod +x osc.sh' and 'chmod +x osc_start.sh'
 * add file permissions to source the config file using 'chmod 744 ocs.cfg'
 * add file permissions to play the WAV files
+* make sure the right variables have quotes in the config file.
 
 Dependencies: (commands that need to be run)
 wget

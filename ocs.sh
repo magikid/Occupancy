@@ -70,12 +70,12 @@ getBrightness ()
 pushStatusToWebsite ()
 {
     echo "pushStatusToWebsite"
-    ftp -n ${OCS_UAS_URL} <<END_SCRIPT1
-        quote USER $OCS_UAS_USER
-        quote PASS $OCS_UAS_PASS
+    ftp -n "${OCS_UAS_URL}" <<END_SCRIPT1
+        quote USER ${OCS_UAS_USER}
+        quote PASS ${OCS_UAS_PASS}
         ascii
         passive	
-        put $OCS_TMP_STATUS $OCS_UAS_STATUS_FILE_LOC
+        put ${OCS_TMP_STATUS} ${OCS_UAS_STATUS_FILE_LOC}
         quit
 END_SCRIPT1
 }
@@ -84,17 +84,17 @@ END_SCRIPT1
 #   moves the /tmp/thewall.jpg file to the websites status file
 pushWallToWebsite ()
 {
-    stamp=$(date %F%T)
-    ftp -n ${OCS_UAS_URL} <<END_SCRIPT2
-        quote USER $OCS_UAS_USER
-        quote PASS $OCS_UAS_PASS
+    stamp=$(date '+%F_%T')
+    ftp -n "${OCS_UAS_URL}" <<END_SCRIPT2
+        quote USER ${OCS_UAS_USER}
+        quote PASS ${OCS_UAS_PASS}
 	ascii
 	passive
-	put $OCS_TMP_WALL ${OCS_UAS_WALL_FILE}
-	put $OCS_TMP_WALL ${OCS_UAS_WALL_ARCHIVE_FILEPATH}/${stamp}.jpg
+	put ${OCS_TMP_WALL} ${OCS_UAS_WALL_FILE}
+	put ${OCS_TMP_WALL} ${OCS_UAS_WALL_ARCHIVE_FILEPATH}/${stamp}.jpg
         quit
 END_SCRIPT2
-    nc "${OCS_IRC_IP} ${OCS_IRC_PORT} !JSON {\"Service\":${OCS_IRC_SERVICE}, \"Key\":${OCS_IRC_KEY}, \"Data\":\"New Wall Image: http://${OCS_UAS_WALL_ARCHIVE_FILEPATH}/${stamp}.jpg\"} &>/dev/null"
+    nc ${OCS_IRC_IP} ${OCS_IRC_PORT} !JSON {\"Service\":${OCS_IRC_SERVICE}, \"Key\":${OCS_IRC_KEY}, \"Data\":\"New Wall Image: http://${OCS_UAS_WALL_ARCHIVE_FILEPATH}/${stamp}.jpg\"} &>/dev/null
 }
 
 
@@ -137,7 +137,7 @@ main ()
                 #Play sound
                 mplayer "${OCS_WAV_CLOSED_COMMAND}"
                 #Update flags, IRC, website status file, checkin, logging
-                echo "-n The space has been closed since $(date) %T %F > ${OCS_TMP_STATUS}"
+                echo -n "The space has been closed since $(date '+%T %F') > ${OCS_TMP_STATUS}"
                 #website status
                 pushStatusToWebsite
                 #checkin
@@ -152,13 +152,13 @@ main ()
                 #Play sound
                 mplayer "${OCS_WAV_OPEN_COMMAND}"
                 #status file
-                echo "-n The space has been open since $(date) %T %F > ${OCS_TMP_STATUS}"
+                echo "-n The space has been open since $(date '+%T %F') > ${OCS_TMP_STATUS}"
                 #website status
                 pushStatusToWebsite
                 #Tweet (not correct yet)
                 #python /opt/uas/statustweet/statustweet.py "The space has been open since ` date `. #unallocated" &>/dev/null
                 #IRC
-                nc "${OCS_IRC_IP} ${OCS_IRC_PORT} !JSON {\"Service\":${OCS_IRC_SERVICE}, \"Key\":${OCS_IRC_KEY}, \"Data\":\"The space has been open since $(date).\" }"
+                nc ${OCS_IRC_IP} ${OCS_IRC_PORT} !JSON "{\"Service\":${OCS_IRC_SERVICE}, \"Key\":${OCS_IRC_KEY}, \"Data\":\"The space has been open since $(date '+%T %F').\" }"
                 #Wall image to website
                 getWallPicture
                 pushWallToWebsite

@@ -90,8 +90,8 @@ pushWallToWebsite ()
         quote PASS $OCS_UAS_PASS
 	ascii
 	passive
-	put $OCS_TMP_WALL $OCS_UAS_WALL_FILE
-	put $OCS_TMP_WALL $OCS_UAS_WALL_ARCHIVE_FILEPATH/$stamp.jpg
+	put $OCS_TMP_WALL ${OCS_UAS_WALL_FILE}
+	put $OCS_TMP_WALL ${OCS_UAS_WALL_ARCHIVE_FILEPATH}/${stamp}.jpg
         quit
 END_SCRIPT2
     nc $OCS_IRC_IP $OCS_IRC_PORT !JSON \
@@ -164,7 +164,7 @@ main ()
                 nc $OCS_IRC_IP $OCS_IRC_PORT !JSON \
                     {"Service":$OCS_IRC_SERVICE, \
                     "Key":$OCS_IRC_KEY, \
-                    "Data":"The space has been open since "+ date +"."}
+                    "Data":"The space has been open since " + date }
                 #Wall image to website
                 getWallPicture
                 pushWallToWebsite

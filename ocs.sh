@@ -26,11 +26,10 @@ pointCameraAtLight ()
     is_cam_pointed_at_wall=false
     #move camera to preset ocs2, wait for it to finish
     curl "http://10.0.0.4/axis-cgi/com/ptz.cgi?gotoserverpresetname=ocs2&camera=1"
-	sleep 2
+    sleep 2
     #change light sensitivity and wait
     curl "http://10.0.0.4/axis-cgi/com/ptz.cgi?camera=1&irisbar=185&alignment=horisontal&barcoord=80,0"
     sleep 8
-    
 }
 
 # getWallPicture() 
@@ -71,14 +70,14 @@ getBrightness ()
 pushStatusToWebsite ()
 {
     echo "pushStatusToWebsite"
-ftp -n $OCS_UAS_URL <<END_SCRIPT
-    quote USER $OCS_UAS_USER
-    quote PASS $OCS_UAS_PASS
-    ascii
-    passive	
-    put $OCS_TMP_STATUS $OCS_UAS_STATUS_FILE_LOC
-    quit
-END_SCRIPT
+    ftp -n $OCS_UAS_URL <<END_SCRIPT1
+        quote USER $OCS_UAS_USER
+        quote PASS $OCS_UAS_PASS
+        ascii
+        passive	
+        put $OCS_TMP_STATUS $OCS_UAS_STATUS_FILE_LOC
+        quit
+END_SCRIPT1
 }
 
 # pushWallToWebsite()
@@ -86,15 +85,15 @@ END_SCRIPT
 pushWallToWebsite ()
 {
     stamp=`date +"%F%T"`
-ftp -n $OCS_UAS_URL <<END_SCRIPT
-    quote USER $OCS_UAS_USER
-    quote PASS $OCS_UAS_PASS
+    ftp -n $OCS_UAS_URL <<END_SCRIPT2
+        quote USER $OCS_UAS_USER
+        quote PASS $OCS_UAS_PASS
 	ascii
 	passive
 	put $OCS_TMP_WALL $OCS_UAS_WALL_FILE
 	put $OCS_TMP_WALL $OCS_UAS_WALL_ARCHIVE_FILEPATH/$stamp.jpg
-   quit
-END_SCRIPT
+        quit
+END_SCRIPT2
     nc $OCS_IRC_IP $OCS_IRC_PORT !JSON \
         {"Service":$OCS_IRC_SERVICE, \
         "Key":$OCS_IRC_KEY, \
@@ -110,7 +109,6 @@ END_SCRIPT
 
 main ()
 {
-
     # Set configurable variables
     source /opt/ocs/ocs_config.cfg
     
@@ -160,7 +158,7 @@ main ()
                 echo -n "The space has been open since " date +"%T %F" > $OCS_TMP_STATUS
                 #website status
                 pushStatusToWebsite
-                #Tweet
+                #Tweet (not correct yet)
                 #python /opt/uas/statustweet/statustweet.py "The space has been open since ` date `. #unallocated" &>/dev/null
                 #IRC
                 nc $OCS_IRC_IP $OCS_IRC_PORT !JSON \
@@ -172,12 +170,9 @@ main ()
                 pushWallToWebsite
                 #logging
                 echo "`date` set to OPEN" >> $OCS_LOGFILE
-                
             fi
         fi
     done
-
-
 }
 
 ###############################################################################

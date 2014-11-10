@@ -58,7 +58,7 @@ getBrightness ()
     # copy pic to tmp
     wget "http://${OCS_AXISCAMERA_IP}/axis-cgi/jpg/image.cgi -q -O ${OCS_TMP_LIGHT}"
     # average all the grayscale pics to determine/set light brightness level
-    level=`convert $OCS_TMP_LIGHT -colorspace gray -format "%[fx:mean]" info:|cut -c3-5`
+    level=$(convert "${OCS_TMP_LIGHT} -colorspace gray -format \"%[fx:mean]\" info:|cut -c3-5")
 }
 
 
@@ -84,7 +84,7 @@ END_SCRIPT1
 #   moves the /tmp/thewall.jpg file to the websites status file
 pushWallToWebsite ()
 {
-    stamp="$(date) %F%T"
+    stamp=$(date %F%T)
     ftp -n ${OCS_UAS_URL} <<END_SCRIPT2
         quote USER $OCS_UAS_USER
         quote PASS $OCS_UAS_PASS
@@ -94,10 +94,7 @@ pushWallToWebsite ()
 	put $OCS_TMP_WALL ${OCS_UAS_WALL_ARCHIVE_FILEPATH}/${stamp}.jpg
         quit
 END_SCRIPT2
-    nc $OCS_IRC_IP $OCS_IRC_PORT !JSON \
-        {"Service":$OCS_IRC_SERVICE, \
-        "Key":$OCS_IRC_KEY, \
-        "Data":"New Wall Image: http://${OCS_UAS_WALL_ARCHIVE_FILEPATH}/${stamp}.jpg"} &>/dev/null
+    nc "${OCS_IRC_IP} ${OCS_IRC_PORT} !JSON {\"Service\":${OCS_IRC_SERVICE}, \"Key\":${OCS_IRC_KEY}, \"Data\":\"New Wall Image: http://${OCS_UAS_WALL_ARCHIVE_FILEPATH}/${stamp}.jpg\"} &>/dev/null"
 }
 
 
@@ -110,13 +107,13 @@ END_SCRIPT2
 main ()
 {
     # Set configurable variables
-    source /opt/ocs/ocs.cfg
+    source "/opt/ocs/ocs.cfg"
     
     #Inital values/flags
     is_cam_pointed_at_wall=false
     is_occupied=false
     is_overridden=false
-    echo "$(date) STARTING ocs.sh" >> $OCS_LOGFILE
+    echo "$(date) STARTING ocs.sh >> ${OCS_LOGFILE}"
 
     #Loop
     while true; do
@@ -127,7 +124,7 @@ main ()
         getBrightness
         
         # Override check
-        if lsusb | grep $OCS_OVERRIDE_LSUSB_VALUE; then
+        if $(lsusb | grep ${OCS_OVERRIDE_LSUSB_VALUE}); then
             is_overridden=true
         else
             is_overridden=false
@@ -138,38 +135,35 @@ main ()
             if ! $is_overridden  && [[ $level -lt $OCS_BRIGHTNESS_THRESHOLD ]]; then
                 is_occupied=false
                 #Play sound
-                mplayer $OCS_WAV_CLOSED_COMMAND
+                mplayer "${OCS_WAV_CLOSED_COMMAND}"
                 #Update flags, IRC, website status file, checkin, logging
-                echo -n "The space has been closed since $(date) %T %F" > $OCS_TMP_STATUS
+                echo "-n The space has been closed since $(date) %T %F > ${OCS_TMP_STATUS}"
                 #website status
                 pushStatusToWebsite
                 #checkin
-                python $OCS_CHECKIN_SCRIPT closing
+                python "${OCS_CHECKIN_SCRIPT} closing"
                 #logging
-                echo "$(date) set to CLOSED" >> $OCS_LOGFILE
+                echo "$(date) set to CLOSED >> ${OCS_LOGFILE}"
             fi
         #If status changes unoccupied to occupied (Turn on)
         else
             if $is_overridden || [[ $level -gt $OCS_BRIGHTNESS_THRESHOLD ]]; then
                 is_occupied=true
                 #Play sound
-                mplayer $OCS_WAV_OPEN_COMMAND
+                mplayer "${OCS_WAV_OPEN_COMMAND}"
                 #status file
-                echo -n "The space has been open since $(date) %T %F" > $OCS_TMP_STATUS
+                echo "-n The space has been open since $(date) %T %F > ${OCS_TMP_STATUS}"
                 #website status
                 pushStatusToWebsite
                 #Tweet (not correct yet)
                 #python /opt/uas/statustweet/statustweet.py "The space has been open since ` date `. #unallocated" &>/dev/null
                 #IRC
-                nc $OCS_IRC_IP $OCS_IRC_PORT !JSON \
-                    {"Service":$OCS_IRC_SERVICE, \
-                    "Key":$OCS_IRC_KEY, \
-                    "Data":"The space has been open since " + date }
+                nc "${OCS_IRC_IP} ${OCS_IRC_PORT} !JSON {\"Service\":${OCS_IRC_SERVICE}, \"Key\":${OCS_IRC_KEY}, \"Data\":\"The space has been open since $(date).\" }"
                 #Wall image to website
                 getWallPicture
                 pushWallToWebsite
                 #logging
-                echo "$(date) set to OPEN" >> $OCS_LOGFILE
+                echo "$(date) set to OPEN >> ${OCS_LOGFILE}"
             fi
         fi
     done

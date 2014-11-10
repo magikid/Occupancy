@@ -20,7 +20,7 @@
 # pointCameraAtLight()
 # moves camera to preset 'ocs2' and sets flag
 
-pointCameraAtLight()
+pointCameraAtLight ()
 {
     #set cam flag
     is_cam_pointed_at_wall=false
@@ -37,7 +37,7 @@ pointCameraAtLight()
 # moves camera to preset 'TheWall' and sets flag
 # then takes picture and puts it at /tmp/thewall.jpg
 
-getWallPicture() 
+getWallPicture () 
 {
     is_cam_pointed_at_wall=true
     curl "http://10.0.0.4/axis-cgi/com/ptz.cgi?gotoserverpresetname=TheWall&camera=1"
@@ -54,7 +54,7 @@ getWallPicture()
 # Use camera to determine ceiling_light brightness level
 #   * sets $level variable
 
-getBrightness()
+getBrightness ()
 {
     # copy pic to tmp
     wget http://10.0.0.4/axis-cgi/jpg/image.cgi -q -O $OCS_TMP_LIGHT
@@ -68,7 +68,7 @@ getBrightness()
 #
 # pushStatusToWebsite()
 #   moves the /tmp/status file to the websites status file
-pushStatusToWebsite()
+pushStatusToWebsite ()
 {
     echo "pushStatusToWebsite"
 ftp -n $OCS_UAS_URL <<END_SCRIPT
@@ -83,7 +83,7 @@ END_SCRIPT
 
 # pushWallToWebsite()
 #   moves the /tmp/thewall.jpg file to the websites status file
-pushWallToWebsite()
+pushWallToWebsite ()
 {
     stamp=`date +"%F%T"`
 ftp -n $OCS_UAS_URL <<END_SCRIPT
@@ -108,7 +108,7 @@ END_SCRIPT
 # Main logic function
 #   Runs in loop to constantly check occupancy
 
-main()
+main ()
 {
 
     # Set configurable variables

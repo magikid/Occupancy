@@ -110,7 +110,7 @@ END_SCRIPT2
 main ()
 {
     # Set configurable variables
-    source /opt/ocs/ocs_config.cfg
+    source /opt/ocs/ocs.cfg
     
     #Inital values/flags
     is_cam_pointed_at_wall=false

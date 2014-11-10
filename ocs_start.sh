@@ -13,7 +13,7 @@
 #   Must have access to /opt/ocs/ to run ocs.sh
 ###############################################################################
 
-while `/opt/ocs/ocs.sh`; do
+while /opt/ocs/ocs.sh ; do
     echo "Occupancy Service has crashed. Restarting in 10 seconds."
     sleep 10
 done

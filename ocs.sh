@@ -58,7 +58,7 @@ getBrightness ()
     # copy pic to tmp
     wget "http://${OCS_AXISCAMERA_IP}/axis-cgi/jpg/image.cgi" -q -O "${OCS_TMP_LIGHT}"
     # average all the grayscale pics to determine/set light brightness level
-    level=$(convert "${OCS_TMP_LIGHT}" -colorspace gray -format "\"%[fx:mean]\"" info:|cut -c3-5)
+    level=$(convert "${OCS_TMP_LIGHT}" -colorspace gray -format '%[fx:mean]' info:|cut -c3-5)
 }
 
 
@@ -107,7 +107,7 @@ END_SCRIPT2
 main ()
 {
     # Set configurable variables
-    source "/opt/ocs/ocs.cfg"
+    source "/opt/uas/Occupancy/ocs.cfg"
     
     #Inital values/flags
     is_cam_pointed_at_wall=false
@@ -147,7 +147,8 @@ main ()
             fi
         #If status changes unoccupied to occupied (Turn on)
         else
-            if $is_overridden || [[ $level -gt $OCS_BRIGHTNESS_THRESHOLD ]]; then
+            # Had to mod this because sometimes we get floats and doubles -- we need to be able to handle all.
+            if $is_overridden || [[ "$(echo ${level} '>' ${OCS_BRIGHTNESS_THRESHOLD} | bc -l)" -eq 1 ]]; then
                 is_occupied=true
                 #Play sound
                 mplayer "${OCS_WAV_OPEN_COMMAND}"
@@ -156,7 +157,7 @@ main ()
                 #website status
                 pushStatusToWebsite
                 #Tweet (not correct yet)
-                #python /opt/uas/statustweet/statustweet.py "The space has been open since ` date `. #unallocated" &>/dev/null
+                python /opt/uas/statustweet/statustweet.py "The space has been open since `cat ${OCS_TMP_STATUS}` #Unallocated" &>/dev/null
                 #IRC
                 nc "${OCS_IRC_IP}" "${OCS_IRC_PORT}" "!JSON" "{\"Service\":${OCS_IRC_SERVICE}, \"Key\":${OCS_IRC_KEY}, \"Data\":\"The space has been open since $(date '+%T %F').\"}" &>/dev/null
                 #Wall image to website

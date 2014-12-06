@@ -15,7 +15,7 @@ do_start()
                 echo "Occupancy is already running, or it crashed and the pid file still exists! Try stop/restart, or removing the PID file first."
         else
                 echo "Starting UAS Occupancy."
-                nohup ./$IRC_BOTD $OPTIONS 0<&- &> my.admin.log.file &
+                nohup $IRC_BOTD $OPTIONS 0<&- &> /opt/uas/Occupancy/log &
                 if [ $? -eq 0 ]; then
                         echo "UAS Occupancy successfully started."
                         logger "UAS Occupancy started."

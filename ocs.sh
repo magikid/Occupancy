@@ -108,7 +108,13 @@ main ()
 {
     # Set configurable variables
     source "/opt/uas/Occupancy/ocs.cfg"
-    
+
+    # Write the PID to file for the service script
+    echo $BASHPID > $OCS_PID_FILE_PATH
+
+    # Capture signals so we clean up the pid file properly.
+    trap "rm $OCS_PID_FILE_PATH; exit" SIGHUP SIGINT SIGTERM
+
     #Inital values/flags
     is_cam_pointed_at_wall=false
     is_occupied=false
@@ -168,6 +174,9 @@ main ()
             fi
         fi
     done
+
+    # We'll probably never reach here properly, but if we do, clean up the PID file.
+    rm $OCS_PID_FILE_PATH
 }
 
 ###############################################################################

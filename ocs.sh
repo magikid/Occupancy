@@ -142,13 +142,15 @@ main ()
             if ! $is_overridden  && [[ $level -lt $OCS_BRIGHTNESS_THRESHOLD ]]; then
                 is_occupied=false
                 #Play sound
-                mplayer "${OCS_WAV_CLOSED_COMMAND}"
+                #mplayer "${OCS_WAV_CLOSED_COMMAND}"
                 #Update flags, IRC, website status file, checkin, logging
                 echo "The space has been closed since $(date '+%T %F') > ${OCS_TMP_STATUS}"
                 #website status
                 pushStatusToWebsite
                 #checkin
                 python "${OCS_CHECKIN_SCRIPT}" "closing"
+                # Twitter
+                python /opt/uas/statustweet/statustweet.py "`cat ${OCS_TMP_STATUS}` #Unallocated" &>/dev/null
                 # IRC
                 curl -X POST 127.0.0.1:9999/ --data '{"Service":"Occupancy","Data":"The space is now closed"}'
                 #logging
@@ -160,13 +162,13 @@ main ()
             if $is_overridden || [[ "$(echo ${level} '>' ${OCS_BRIGHTNESS_THRESHOLD} | bc -l)" -eq 1 ]]; then
                 is_occupied=true
                 #Play sound
-                mplayer "${OCS_WAV_OPEN_COMMAND}"
+                #mplayer "${OCS_WAV_OPEN_COMMAND}"
                 #status file
                 echo "The space has been open since $(date '+%T %F') > ${OCS_TMP_STATUS}"
                 #website status
                 pushStatusToWebsite
                 #Tweet (not correct yet)
-                python /opt/uas/statustweet/statustweet.py "The space has been open since `cat ${OCS_TMP_STATUS}` #Unallocated" &>/dev/null
+                python /opt/uas/statustweet/statustweet.py "`cat ${OCS_TMP_STATUS}` #Unallocated" &>/dev/null
                 #IRC
                 #nc "${OCS_IRC_IP}" "${OCS_IRC_PORT}" "!JSON" "{\"Service\":${OCS_IRC_SERVICE}, \"Key\":${OCS_IRC_KEY}, \"Data\":\"The space has been open since $(date '+%T %F').\"}" &>/dev/null
                 curl -X POST 127.0.0.1:9999/ --data '{"Service":"Occupancy","Data":"The space is now open"}'

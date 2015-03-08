@@ -123,6 +123,7 @@ main ()
 
     #Loop
     while true; do
+        echo "looping"
         #Make sure camera is pointed at ceiling light and get brightness 'level'
         if $is_cam_pointed_at_wall; then
             pointCameraAtLight

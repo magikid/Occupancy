@@ -1,0 +1,4291 @@
+starting main
+Sun Mar  8 13:49:38 EDT 2015 STARTING ocs.sh >> /opt/ocs/occupancy.log
+MPlayer2 2.0-701-gd4c5b7f-2ubuntu2 (C) 2000-2012 MPlayer Team
+Cannot open file '/root/.mplayer/input.conf': No such file or directory
+Failed to open /root/.mplayer/input.conf.
+
+Playing /opt/ocs/nowopen.wav.
+Cannot open file '/opt/ocs/nowopen.wav': No such file or directory
+Failed to open /opt/ocs/nowopen.wav.
+No bind found for key 'B'.
+No bind found for key 'Z'.
+No bind found for key 'Ö'.
+No bind found for key 'Ș'.
+No bind found for key '0x19    '.
+No bind found for key '­'.
+No bind found for key ''.
+No bind found for key '²'.
+No bind found for key ''.
+No bind found for key 'ù'.
+No bind found for key 'ԃ'.
+No bind found for key '0x17    '.
+No bind found for key 'Á'.
+No bind found for key 'ó'.
+No bind found for key 'Ñ'.
+No bind found for key 'g'.
+No bind found for key ''.
+No bind found for key 'ý'.
+No bind found for key 'H'.
+No bind found for key '0xe     '.
+No bind found for key '$'.
+No bind found for key '´'.
+No bind found for key '0xf     '.
+No bind found for key '¬'.
+No bind found for key 'L'.
+No bind found for key 'N'.
+No bind found for key '0x19    '.
+No bind found for key 'Ø'.
+No bind found for key '¡'.
+No bind found for key ':'.
+No bind found for key ''.
+No bind found for key '¸'.
+No bind found for key '³'.
+No bind found for key ','.
+No bind found for key ''.
+No bind found for key '×'.
+No bind found for key '0x1a    '.
+No bind found for key ''.
+No bind found for key '0x2     '.
+No bind found for key 'Û'.
+No bind found for key 'ê'.
+No bind found for key ''.
+No bind found for key 'Y'.
+No bind found for key '£'.
+No bind found for key 'æ'.
+No bind found for key 'ù'.
+No bind found for key '^'.
+No bind found for key ''.
+No bind found for key '0x14    '.
+No bind found for key 'È'.
+No bind found for key '''.
+No bind found for key '''.
+No bind found for key 'Ç'.
+No bind found for key 'Í'.
+No bind found for key 'ó'.
+No bind found for key ''.
+No bind found for key 'Ý'.
+No bind found for key ';'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'À'.
+No bind found for key 'á'.
+No bind found for key 'æ'.
+No bind found for key '`'.
+No bind found for key '0xf     '.
+No bind found for key 'g'.
+No bind found for key '¯'.
+No bind found for key 'Ǿ'.
+No bind found for key '٣'.
+No bind found for key '§'.
+No bind found for key '0xb     '.
+No bind found for key '¶'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'Ê'.
+No bind found for key 'í'.
+No bind found for key '0x17    '.
+No bind found for key '¦'.
+No bind found for key '0x19    '.
+No bind found for key 'g'.
+No bind found for key '¶'.
+No bind found for key '^'.
+No bind found for key 'ò'.
+No bind found for key 'Û'.
+No bind found for key ''.
+No bind found for key 'à'.
+No bind found for key 'K'.
+No bind found for key 'ÿ'.
+No bind found for key 'ê'.
+No bind found for key ''.
+No bind found for key 'ñ'.
+No bind found for key ''.
+No bind found for key 'Ǫ'.
+No bind found for key 'А'.
+No bind found for key 'þ'.
+No bind found for key 'õ'.
+No bind found for key ''.
+No bind found for key 'Ä'.
+No bind found for key '0xe     '.
+No bind found for key ''.
+No bind found for key ';'.
+No bind found for key 'ì'.
+No bind found for key ''.
+No bind found for key 'Ú'.
+No bind found for key 'Ф'.
+No bind found for key '¥'.
+No bind found for key '¯'.
+No bind found for key 'Ë'.
+No bind found for key 'Â'.
+No bind found for key '0xf     '.
+No bind found for key '0xc     '.
+No bind found for key ''.
+No bind found for key '¬'.
+No bind found for key ''.
+No bind found for key 'ý'.
+No bind found for key 'ë'.
+No bind found for key ''.
+No bind found for key '¾'.
+No bind found for key '|'.
+No bind found for key 'ø'.
+No bind found for key 'ù'.
+No bind found for key ''.
+No bind found for key '0xf     '.
+No bind found for key '«'.
+No bind found for key '³'.
+No bind found for key 'ð'.
+No bind found for key 'º'.
+No bind found for key ''.
+No bind found for key 'Y'.
+No bind found for key 'ֳ'.
+No bind found for key '½'.
+No bind found for key '´'.
+No bind found for key 'î'.
+No bind found for key '0xf     '.
+No bind found for key 'Y'.
+No bind found for key '񊘵'.
+No bind found for key ''.
+No bind found for key '¼'.
+No bind found for key ''.
+No bind found for key 'ù'.
+No bind found for key '·'.
+No bind found for key ''.
+No bind found for key '&'.
+No bind found for key ''.
+No bind found for key 'Z'.
+No bind found for key '¢'.
+No bind found for key '0x1f    '.
+No bind found for key '¢'.
+No bind found for key '''.
+No bind found for key 'ö'.
+No bind found for key '%'.
+No bind found for key 'õ'.
+No bind found for key '֬'.
+No bind found for key '0x17    '.
+No bind found for key ''.
+No bind found for key 'ö'.
+No bind found for key '0       '.
+No bind found for key ''.
+No bind found for key '0x1d    '.
+No bind found for key ''.
+No bind found for key '0x12    '.
+No bind found for key 'ã'.
+No bind found for key 'É'.
+No bind found for key ''.
+No bind found for key 'º'.
+No bind found for key 'g'.
+No bind found for key '|'.
+No bind found for key 'Ó'.
+No bind found for key ''.
+No bind found for key '0       '.
+No bind found for key 'û'.
+No bind found for key ''.
+No bind found for key '0x17    '.
+No bind found for key '"'.
+No bind found for key 'Ê'.
+No bind found for key ''.
+No bind found for key 'Ú'.
+No bind found for key '0x2     '.
+No bind found for key ''.
+No bind found for key 'Ä'.
+No bind found for key 'Ã'.
+No bind found for key '?'.
+No bind found for key '©'.
+No bind found for key '±'.
+No bind found for key 'Ò'.
+No bind found for key 'ð'.
+No bind found for key 'æ'.
+No bind found for key '¡'.
+No bind found for key '¿'.
+No bind found for key '0xb     '.
+No bind found for key 'è'.
+No bind found for key 'Ð'.
+No bind found for key 'G'.
+No bind found for key ''.
+No bind found for key '¢'.
+No bind found for key '0xc     '.
+No bind found for key 'µ'.
+No bind found for key ''.
+No bind found for key '0xf     '.
+No bind found for key ''.
+No bind found for key 'é'.
+No bind found for key ''.
+No bind found for key '×'.
+No bind found for key '0xe     '.
+No bind found for key ''.
+No bind found for key 'î'.
+No bind found for key '×'.
+No bind found for key 'N'.
+No bind found for key 'ã'.
+No bind found for key 'Í'.
+No bind found for key 'Å'.
+No bind found for key 'ò'.
+No bind found for key '0x12    '.
+No bind found for key ''.
+No bind found for key 'ò'.
+No bind found for key 'M'.
+No bind found for key '¥'.
+No bind found for key '0x2     '.
+No bind found for key '­'.
+No bind found for key '0x11    '.
+No bind found for key 'É'.
+No bind found for key 'ä'.
+No bind found for key '§'.
+No bind found for key 'ã'.
+No bind found for key '&'.
+No bind found for key 'g'.
+No bind found for key ''.
+No bind found for key 'ۙ'.
+No bind found for key 'Ã'.
+No bind found for key '0x14    '.
+No bind found for key ''.
+No bind found for key 'Ø'.
+No bind found for key 'è'.
+No bind found for key 'ë'.
+No bind found for key '¥'.
+No bind found for key '0x6     '.
+No bind found for key '³'.
+No bind found for key 'ò'.
+No bind found for key 'é'.
+No bind found for key 'ê'.
+No bind found for key 'è'.
+No bind found for key '%'.
+No bind found for key '0x17    '.
+No bind found for key 'ì'.
+No bind found for key '0x1d    '.
+No bind found for key 'Î'.
+No bind found for key 'î'.
+No bind found for key 'ছ'.
+No bind found for key 'Ö'.
+No bind found for key 'Ø'.
+No bind found for key '0x1c    '.
+No bind found for key 'M'.
+No bind found for key 'å'.
+No bind found for key 'Ç'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '²'.
+No bind found for key 'ǫ'.
+No bind found for key '©'.
+No bind found for key '0xf     '.
+No bind found for key ';'.
+No bind found for key 'Ú'.
+No bind found for key 'Â'.
+No bind found for key 'ì'.
+No bind found for key '0x18    '.
+No bind found for key '×'.
+No bind found for key ','.
+No bind found for key 'È'.
+No bind found for key ''.
+No bind found for key '$'.
+No bind found for key '0x121e46'.
+No bind found for key ''.
+No bind found for key 'Ä'.
+No bind found for key 'ô'.
+No bind found for key 'Í'.
+No bind found for key 'é'.
+No bind found for key '×'.
+No bind found for key ''.
+No bind found for key 'K'.
+No bind found for key 'Z'.
+No bind found for key '¯'.
+No bind found for key '0x14    '.
+No bind found for key ''.
+No bind found for key '½'.
+No bind found for key 'â'.
+No bind found for key '0x18    '.
+No bind found for key 'þ'.
+No bind found for key ''.
+No bind found for key '£'.
+No bind found for key 'E'.
+No bind found for key 'Î'.
+No bind found for key 'H'.
+No bind found for key ''.
+No bind found for key '¤'.
+No bind found for key 'ß'.
+No bind found for key '÷'.
+No bind found for key '©'.
+No bind found for key '§'.
+No bind found for key '³'.
+No bind found for key '³'.
+No bind found for key '§'.
+No bind found for key '0x1d    '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '´'.
+No bind found for key 'ú'.
+No bind found for key '0x1d    '.
+No bind found for key 'ø'.
+No bind found for key 'þ'.
+No bind found for key 'O'.
+No bind found for key ''.
+No bind found for key '0x2     '.
+No bind found for key '0x7     '.
+No bind found for key ';'.
+No bind found for key 'á'.
+No bind found for key ''.
+No bind found for key 'Í'.
+No bind found for key 'Í'.
+No bind found for key 'ã'.
+No bind found for key 'â'.
+No bind found for key '0x12    '.
+No bind found for key 'å'.
+No bind found for key 'Æ'.
+No bind found for key 'Þ'.
+No bind found for key 'Å'.
+No bind found for key '»'.
+No bind found for key 'Ù'.
+No bind found for key ''.
+No bind found for key '®'.
+No bind found for key 'Ø'.
+No bind found for key 'ð'.
+No bind found for key 'Û'.
+No bind found for key '&'.
+No bind found for key 'ե'.
+No bind found for key 'û'.
+No bind found for key ''.
+No bind found for key 'ú'.
+No bind found for key ''.
+No bind found for key '0x13    '.
+No bind found for key '½'.
+No bind found for key 'Ä'.
+No bind found for key 'ø'.
+No bind found for key '"'.
+No bind found for key '´'.
+No bind found for key '$'.
+No bind found for key 'É'.
+No bind found for key 'à'.
+No bind found for key 'Ì'.
+No bind found for key 'Ô'.
+No bind found for key 'Ú'.
+No bind found for key '0x19    '.
+No bind found for key 'Y'.
+No bind found for key 'ç'.
+No bind found for key 'Í'.
+No bind found for key 'õ'.
+No bind found for key ''.
+No bind found for key '0x1f    '.
+No bind found for key 'á'.
+No bind found for key 'G'.
+No bind found for key 'Ù'.
+No bind found for key '¥'.
+No bind found for key 'ã'.
+No bind found for key 'é'.
+No bind found for key 'ó'.
+No bind found for key 'Ô'.
+No bind found for key 'ß'.
+No bind found for key ''.
+No bind found for key 'í'.
+No bind found for key '0x12    '.
+No bind found for key 'ì'.
+No bind found for key '§'.
+No bind found for key '0xb     '.
+No bind found for key 'Ü'.
+No bind found for key 'Ê'.
+No bind found for key 'ó'.
+No bind found for key '0x6     '.
+No bind found for key '¼'.
+No bind found for key '¨'.
+No bind found for key '0x1f    '.
+No bind found for key 'M'.
+No bind found for key '½'.
+No bind found for key '½'.
+No bind found for key ''.
+No bind found for key 'H'.
+No bind found for key 'Ö'.
+No bind found for key '0x3     '.
+No bind found for key 'Ô'.
+No bind found for key '0xb     '.
+No bind found for key '0xe     '.
+No bind found for key '¨'.
+No bind found for key '£'.
+No bind found for key 'ü'.
+No bind found for key 'ù'.
+No bind found for key 'Æ'.
+No bind found for key 'ޭ'.
+No bind found for key '~'.
+No bind found for key ''.
+No bind found for key '0xe     '.
+No bind found for key '¬'.
+No bind found for key '¶'.
+No bind found for key '×'.
+No bind found for key 'À'.
+No bind found for key '0x1c    '.
+No bind found for key '`'.
+No bind found for key 'Ò'.
+No bind found for key '$'.
+No bind found for key 'L'.
+No bind found for key 'Y'.
+No bind found for key '0x19    '.
+No bind found for key '0x10    '.
+No bind found for key ''.
+No bind found for key '0xc     '.
+No bind found for key ''.
+No bind found for key '0x3     '.
+No bind found for key '¸'.
+No bind found for key '0x11    '.
+No bind found for key 'â'.
+No bind found for key '¯'.
+No bind found for key ''.
+No bind found for key '­'.
+No bind found for key '''.
+No bind found for key 'Y'.
+No bind found for key ''.
+No bind found for key 'Ü'.
+No bind found for key ''.
+No bind found for key 'B'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '¤'.
+No bind found for key '0x14    '.
+No bind found for key 'ü'.
+No bind found for key ''.
+No bind found for key 'Ö'.
+No bind found for key '0x3     '.
+No bind found for key 'è'.
+No bind found for key '«'.
+No bind found for key '0x1e    '.
+No bind found for key '0x1b    '.
+No bind found for key 'O'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '¨'.
+No bind found for key 'Æ'.
+No bind found for key '0xe     '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'è'.
+No bind found for key 'Â'.
+No bind found for key '&'.
+No bind found for key 'Z'.
+No bind found for key '0xf     '.
+No bind found for key 'Æ'.
+No bind found for key '×'.
+No bind found for key 'Y'.
+No bind found for key '°'.
+No bind found for key ','.
+No bind found for key 'ê'.
+No bind found for key 'À'.
+No bind found for key 'Ç'.
+No bind found for key 'ä'.
+No bind found for key 'Õ'.
+No bind found for key 'y'.
+No bind found for key 'N'.
+No bind found for key ''.
+No bind found for key 'Ê'.
+No bind found for key ':'.
+No bind found for key 'å'.
+No bind found for key '0x17    '.
+No bind found for key '0x2     '.
+No bind found for key 'Á'.
+No bind found for key ','.
+No bind found for key '§'.
+No bind found for key ':'.
+No bind found for key '§'.
+No bind found for key 'N'.
+No bind found for key 'ø'.
+No bind found for key 'À'.
+No bind found for key 'à'.
+No bind found for key ''.
+No bind found for key '0       '.
+No bind found for key ''.
+No bind found for key '&'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '²'.
+No bind found for key 'ÿ'.
+No bind found for key ''.
+No bind found for key 'ñ'.
+No bind found for key '¢'.
+No bind found for key '飞'.
+No bind found for key '$'.
+No bind found for key '0xe     '.
+No bind found for key '&'.
+No bind found for key 'H'.
+No bind found for key 'L'.
+No bind found for key 'Y'.
+No bind found for key '²'.
+No bind found for key '0x1c    '.
+No bind found for key '0xc     '.
+No bind found for key '¸'.
+No bind found for key '¨'.
+No bind found for key ''.
+No bind found for key '±'.
+No bind found for key 'î'.
+No bind found for key 'ï'.
+No bind found for key '%'.
+No bind found for key '^'.
+No bind found for key '˻'.
+No bind found for key '­'.
+No bind found for key '0x3     '.
+No bind found for key 'ˈ'.
+No bind found for key 'ã'.
+No bind found for key 'ŏ'.
+No bind found for key 'Ü'.
+No bind found for key 'Ä'.
+No bind found for key 'Æ'.
+No bind found for key '0x11    '.
+No bind found for key 'Ò'.
+No bind found for key 'Ð'.
+No bind found for key 'Û'.
+No bind found for key ''.
+No bind found for key 'ô'.
+No bind found for key '¥'.
+No bind found for key 'ÿ'.
+No bind found for key '¯'.
+No bind found for key '撶'.
+No bind found for key '0x1e    '.
+No bind found for key 'Ê'.
+No bind found for key '¸'.
+No bind found for key 'Ú'.
+No bind found for key '0xe     '.
+No bind found for key ''.
+No bind found for key 'ê'.
+No bind found for key '0x6     '.
+No bind found for key '0x17    '.
+No bind found for key ''.
+No bind found for key 'ý'.
+No bind found for key 'þ'.
+No bind found for key 'Ü'.
+No bind found for key '`'.
+No bind found for key '½'.
+No bind found for key '0x14    '.
+No bind found for key 'ڝ'.
+No bind found for key '0x2     '.
+No bind found for key ' '.
+No bind found for key '"'.
+No bind found for key '«'.
+No bind found for key 'â'.
+No bind found for key 'ÿ'.
+No bind found for key 'Ñ'.
+No bind found for key 'æ'.
+No bind found for key '®'.
+No bind found for key 'ȹ'.
+No bind found for key '»'.
+No bind found for key 'N'.
+No bind found for key 'þ'.
+No bind found for key 'Ӆ'.
+No bind found for key '''.
+No bind found for key ''.
+No bind found for key '¿'.
+No bind found for key 'ß'.
+No bind found for key 'Î'.
+No bind found for key ';'.
+No bind found for key 'ß'.
+No bind found for key '´'.
+No bind found for key '0x1e    '.
+No bind found for key ''.
+No bind found for key 'ü'.
+No bind found for key ' '.
+No bind found for key '^'.
+No bind found for key '0x7     '.
+No bind found for key 'ø'.
+No bind found for key ''.
+No bind found for key '0xb     '.
+No bind found for key 'Ý'.
+No bind found for key '0       '.
+No bind found for key '¾'.
+No bind found for key ';'.
+No bind found for key '¿'.
+No bind found for key 'ÿ'.
+No bind found for key 'ö'.
+No bind found for key 'Î'.
+No bind found for key 'ü'.
+No bind found for key '0x11    '.
+No bind found for key '»'.
+No bind found for key '0xb     '.
+No bind found for key '¶'.
+No bind found for key 'Y'.
+No bind found for key 'Ò'.
+No bind found for key 'ñ'.
+No bind found for key '0x14    '.
+No bind found for key ''.
+No bind found for key '¿'.
+No bind found for key 'ò'.
+No bind found for key '0x1f    '.
+No bind found for key ''.
+No bind found for key '°'.
+No bind found for key '©'.
+No bind found for key '0xb     '.
+No bind found for key ''.
+No bind found for key '­'.
+No bind found for key 'ð'.
+No bind found for key '¦'.
+No bind found for key 'R'.
+No bind found for key 'N'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '\'.
+No bind found for key 'õ'.
+No bind found for key ''.
+No bind found for key '՘'.
+No bind found for key ''.
+No bind found for key 'È'.
+No bind found for key '­'.
+No bind found for key '0x17    '.
+No bind found for key 'á'.
+No bind found for key 'ÿ'.
+No bind found for key ';'.
+No bind found for key '&'.
+No bind found for key 'Ë'.
+No bind found for key '|'.
+No bind found for key 'ú'.
+No bind found for key '0x6     '.
+No bind found for key 'ð'.
+No bind found for key '»'.
+No bind found for key 'Ã'.
+No bind found for key 'ó'.
+No bind found for key 'æ'.
+No bind found for key ''.
+No bind found for key 'ñ'.
+No bind found for key 'Y'.
+No bind found for key ':'.
+No bind found for key 'y'.
+No bind found for key 'Û'.
+No bind found for key 'ú'.
+No bind found for key '¦'.
+No bind found for key ''.
+No bind found for key 'Ä'.
+No bind found for key 'Â'.
+No bind found for key ''.
+No bind found for key 'à'.
+No bind found for key '0x12    '.
+No bind found for key 'Ä'.
+No bind found for key 'Ü'.
+No bind found for key '0x6     '.
+No bind found for key 'з'.
+No bind found for key '?'.
+No bind found for key 'Ô'.
+No bind found for key 'ã'.
+No bind found for key '÷'.
+No bind found for key 'ï'.
+No bind found for key 'ª'.
+No bind found for key 'Á'.
+No bind found for key 'ý'.
+No bind found for key ''.
+No bind found for key 'Y'.
+No bind found for key 'Ç'.
+No bind found for key 'Ù'.
+No bind found for key '0xc     '.
+No bind found for key '񁊪'.
+No bind found for key ''.
+No bind found for key 'y'.
+No bind found for key '0x3     '.
+No bind found for key ':'.
+No bind found for key 'û'.
+No bind found for key '¨'.
+No bind found for key '$'.
+No bind found for key '0x6     '.
+No bind found for key ''.
+No bind found for key '0x12    '.
+No bind found for key 'Z'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '嘿'.
+No bind found for key 'í'.
+No bind found for key '¤'.
+No bind found for key 'ë'.
+No bind found for key 'Ĺ'.
+No bind found for key 'L'.
+No bind found for key '¯'.
+No bind found for key 'ב'.
+No bind found for key '`'.
+No bind found for key 'ä'.
+No bind found for key 'N'.
+No bind found for key '¾'.
+No bind found for key '0x1e    '.
+No bind found for key 'L'.
+No bind found for key '0x12    '.
+No bind found for key 'î'.
+No bind found for key 'þ'.
+No bind found for key 'ö'.
+No bind found for key ''.
+No bind found for key 'Û'.
+No bind found for key 'ç'.
+No bind found for key '²'.
+No bind found for key 'æ'.
+No bind found for key 'ä'.
+No bind found for key 'Ä'.
+No bind found for key ''.
+No bind found for key 'þ'.
+No bind found for key 'Ų'.
+No bind found for key 'ú'.
+No bind found for key ''.
+No bind found for key '0xe     '.
+No bind found for key ''.
+No bind found for key 'Ê'.
+No bind found for key '°'.
+No bind found for key 'Ö'.
+No bind found for key '?'.
+No bind found for key 'K'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '0x1a    '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'Æ'.
+No bind found for key 'y'.
+No bind found for key '?'.
+No bind found for key '?'.
+No bind found for key ''.
+No bind found for key '?'.
+No bind found for key '·'.
+No bind found for key '¯'.
+No bind found for key 'R'.
+No bind found for key 'º'.
+No bind found for key '0       '.
+No bind found for key '0x1f    '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '­'.
+No bind found for key '0x1e    '.
+No bind found for key 'K'.
+No bind found for key 'ø'.
+No bind found for key ':'.
+No bind found for key '?'.
+No bind found for key '0x14    '.
+No bind found for key ''.
+No bind found for key '%'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'é'.
+No bind found for key 'î'.
+No bind found for key '³'.
+No bind found for key 'à'.
+No bind found for key '0x13    '.
+No bind found for key '«'.
+No bind found for key 'î'.
+No bind found for key 'L'.
+No bind found for key '0x1c    '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '0x1c    '.
+No bind found for key '¡'.
+No bind found for key '"'.
+No bind found for key '¥'.
+No bind found for key 'ø'.
+No bind found for key 'ï'.
+No bind found for key '稵'.
+No bind found for key 'Í'.
+No bind found for key '''.
+No bind found for key 'Z'.
+No bind found for key 'Û'.
+No bind found for key 'â'.
+No bind found for key 'ï'.
+No bind found for key 'ª'.
+No bind found for key ''.
+No bind found for key ' '.
+No bind found for key '0x19    '.
+No bind found for key ':'.
+No bind found for key '0x13    '.
+No bind found for key ''.
+No bind found for key 'ÿ'.
+No bind found for key ''.
+No bind found for key 'â'.
+No bind found for key 'Õ'.
+No bind found for key '÷'.
+No bind found for key '­'.
+No bind found for key '0x3     '.
+No bind found for key '߇'.
+No bind found for key 'Ý'.
+No bind found for key '0x1d    '.
+No bind found for key 'þ'.
+No bind found for key 'á'.
+No bind found for key '¢'.
+No bind found for key 'ø'.
+No bind found for key '0x17    '.
+No bind found for key '0       '.
+No bind found for key ''.
+No bind found for key 'É'.
+No bind found for key ''.
+No bind found for key 'E'.
+No bind found for key '½'.
+No bind found for key '¦'.
+No bind found for key '«'.
+No bind found for key 'ú'.
+No bind found for key '0       '.
+No bind found for key '0x1d    '.
+No bind found for key '«'.
+No bind found for key ''.
+No bind found for key 'L'.
+No bind found for key ''.
+No bind found for key 'g'.
+No bind found for key ''.
+No bind found for key 'Ϟ'.
+No bind found for key '²'.
+No bind found for key '0x2     '.
+No bind found for key 'B'.
+No bind found for key '¾'.
+No bind found for key ':'.
+No bind found for key '0x13    '.
+No bind found for key ' '.
+No bind found for key '°'.
+No bind found for key '^'.
+No bind found for key '0x1a    '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '°'.
+No bind found for key ''.
+No bind found for key 'Î'.
+No bind found for key ','.
+No bind found for key '?'.
+No bind found for key 'Y'.
+No bind found for key 'Ã'.
+No bind found for key 'å'.
+No bind found for key 'Å'.
+No bind found for key 'þ'.
+No bind found for key '0x1e    '.
+No bind found for key ''.
+No bind found for key 'ç'.
+No bind found for key '0xe     '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '՛'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'ï'.
+No bind found for key '|'.
+No bind found for key '֗'.
+No bind found for key '0x1c    '.
+No bind found for key '0x13    '.
+No bind found for key 'H'.
+No bind found for key ''.
+No bind found for key 'ù'.
+No bind found for key 'g'.
+No bind found for key '«'.
+No bind found for key 'ß'.
+No bind found for key '0x13    '.
+No bind found for key '~'.
+No bind found for key '²'.
+No bind found for key 'Ö'.
+No bind found for key 'ñ'.
+No bind found for key ''.
+No bind found for key 'û'.
+No bind found for key 'Ã'.
+No bind found for key 'ø'.
+No bind found for key '·'.
+No bind found for key '¯'.
+No bind found for key '0x6     '.
+No bind found for key '«'.
+No bind found for key 'í'.
+No bind found for key '£'.
+No bind found for key '×'.
+No bind found for key 'ñ'.
+No bind found for key ''.
+No bind found for key 'Þ'.
+No bind found for key '$'.
+No bind found for key '''.
+No bind found for key ''.
+No bind found for key '0x14    '.
+No bind found for key 'N'.
+No bind found for key '^'.
+No bind found for key 'þ'.
+No bind found for key 'ã'.
+No bind found for key '×'.
+No bind found for key 'ª'.
+No bind found for key ':'.
+No bind found for key '0x14    '.
+No bind found for key ' '.
+No bind found for key '%'.
+No bind found for key ','.
+No bind found for key '0x1f    '.
+No bind found for key 'Ô'.
+No bind found for key 'ý'.
+No bind found for key '|'.
+No bind found for key '0x2     '.
+No bind found for key 'Ý'.
+No bind found for key 'Ã'.
+No bind found for key '0x19    '.
+No bind found for key 'Þ'.
+No bind found for key '0x11    '.
+No bind found for key ''.
+No bind found for key '²'.
+No bind found for key 'N'.
+No bind found for key 'â'.
+No bind found for key 'y'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '¢'.
+No bind found for key 'Î'.
+No bind found for key 'ÿ'.
+No bind found for key '픚'.
+No bind found for key 'Ü'.
+No bind found for key 'Ì'.
+No bind found for key 'G'.
+No bind found for key ''.
+No bind found for key 'ñ'.
+No bind found for key 'Ö'.
+No bind found for key 'g'.
+No bind found for key 'þ'.
+No bind found for key ''.
+No bind found for key 'è'.
+No bind found for key 'Ҹ'.
+No bind found for key 'ÿ'.
+No bind found for key 'ӎ'.
+No bind found for key ''.
+No bind found for key '0xb     '.
+No bind found for key ''.
+No bind found for key 'ä'.
+No bind found for key 'ä'.
+No bind found for key '0x1b    '.
+No bind found for key 'ä'.
+No bind found for key '÷'.
+No bind found for key '0x18    '.
+No bind found for key 'ð'.
+No bind found for key '0x1e    '.
+No bind found for key '%'.
+No bind found for key 'ͮ'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'E'.
+No bind found for key 'í'.
+No bind found for key 'ۙ'.
+No bind found for key '0x19    '.
+No bind found for key 'º'.
+No bind found for key '0x2     '.
+No bind found for key 'Ç'.
+No bind found for key 'ü'.
+No bind found for key 'À'.
+No bind found for key 'y'.
+No bind found for key '0x17    '.
+No bind found for key '§'.
+No bind found for key ''.
+No bind found for key '?'.
+No bind found for key '0x13    '.
+No bind found for key '½'.
+No bind found for key 'E'.
+No bind found for key 'á'.
+No bind found for key 'K'.
+No bind found for key 'ä'.
+No bind found for key '0xe     '.
+No bind found for key 'Ǳ'.
+No bind found for key '¾'.
+No bind found for key 'ï'.
+No bind found for key '÷'.
+No bind found for key 'ö'.
+No bind found for key ''.
+No bind found for key 'þ'.
+No bind found for key 'ý'.
+No bind found for key '0xe     '.
+No bind found for key 'ò'.
+No bind found for key 'Ë'.
+No bind found for key '^'.
+No bind found for key '0x7     '.
+No bind found for key 'O'.
+No bind found for key '0xc     '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'Ù'.
+No bind found for key '0x10    '.
+No bind found for key ''.
+No bind found for key 'Ë'.
+No bind found for key '㆗'.
+No bind found for key '~'.
+No bind found for key 'M'.
+No bind found for key '0xe     '.
+No bind found for key 'Ä'.
+No bind found for key 'O'.
+No bind found for key 'ø'.
+No bind found for key 'Ì'.
+No bind found for key '´'.
+No bind found for key 'è'.
+No bind found for key 'Ç'.
+No bind found for key ''.
+No bind found for key '¼'.
+No bind found for key 'ç'.
+No bind found for key '0x14    '.
+No bind found for key '§'.
+No bind found for key ' '.
+No bind found for key 'ڄ'.
+No bind found for key '£'.
+No bind found for key 'ŉ'.
+No bind found for key '~'.
+No bind found for key ''.
+No bind found for key 'ñ'.
+No bind found for key 'Ű'.
+No bind found for key '¦'.
+No bind found for key 'å'.
+No bind found for key 'Í'.
+No bind found for key '0       '.
+No bind found for key '%'.
+No bind found for key 'È'.
+No bind found for key '¦'.
+No bind found for key ''.
+No bind found for key '0xb     '.
+No bind found for key ''.
+No bind found for key 'Ó'.
+No bind found for key '''.
+No bind found for key ''.
+No bind found for key 'í'.
+No bind found for key '0x17    '.
+No bind found for key '¨'.
+No bind found for key '`'.
+No bind found for key 'N'.
+No bind found for key 'Å'.
+No bind found for key 'æ'.
+No bind found for key '0xb     '.
+No bind found for key 'G'.
+No bind found for key '¹'.
+No bind found for key '÷'.
+No bind found for key 'º'.
+No bind found for key ''.
+No bind found for key '0x10    '.
+No bind found for key 'K'.
+No bind found for key 'Í'.
+No bind found for key '0x6     '.
+No bind found for key 'µ'.
+No bind found for key 'ÿ'.
+No bind found for key '¯'.
+No bind found for key '"'.
+No bind found for key ''.
+No bind found for key 'í'.
+No bind found for key 'ò'.
+No bind found for key 'Z'.
+No bind found for key '¬'.
+No bind found for key ' '.
+No bind found for key '©'.
+No bind found for key 'Ö'.
+No bind found for key '"'.
+No bind found for key '\'.
+No bind found for key '0x1c    '.
+No bind found for key 'Â'.
+No bind found for key ';'.
+No bind found for key '·'.
+No bind found for key ''.
+No bind found for key 'ã'.
+No bind found for key '\'.
+No bind found for key ''.
+No bind found for key ' '.
+No bind found for key 'K'.
+No bind found for key '¹'.
+No bind found for key '0x18    '.
+No bind found for key 'ç'.
+No bind found for key ','.
+No bind found for key 'ü'.
+No bind found for key '0x10    '.
+No bind found for key 'å'.
+No bind found for key '«'.
+No bind found for key '߭'.
+No bind found for key ''.
+No bind found for key 'Ø'.
+No bind found for key 'G'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'Ç'.
+No bind found for key 'G'.
+No bind found for key ''.
+No bind found for key 'K'.
+No bind found for key '0x12    '.
+No bind found for key '?'.
+No bind found for key 'ë'.
+No bind found for key 'ù'.
+No bind found for key ''.
+No bind found for key '0x7     '.
+No bind found for key '0x1c    '.
+No bind found for key '0x11    '.
+No bind found for key '¶'.
+No bind found for key '٨'.
+No bind found for key 'Õ'.
+No bind found for key '0x3     '.
+No bind found for key 'æ'.
+No bind found for key 'g'.
+No bind found for key 'ü'.
+No bind found for key ''.
+No bind found for key 'à'.
+No bind found for key '"'.
+No bind found for key ''.
+No bind found for key ':'.
+No bind found for key ''.
+No bind found for key 'ì'.
+No bind found for key '0x1e    '.
+No bind found for key 'Ü'.
+No bind found for key 'Ú'.
+No bind found for key '«'.
+No bind found for key '褖'.
+No bind found for key '¶'.
+No bind found for key '0       '.
+No bind found for key 'R'.
+No bind found for key '0xf     '.
+No bind found for key '£'.
+No bind found for key '"'.
+No bind found for key ' '.
+No bind found for key 'y'.
+No bind found for key 'Ê'.
+No bind found for key 'í'.
+No bind found for key '¢'.
+No bind found for key 'Æ'.
+No bind found for key 'Æ'.
+No bind found for key 'æ'.
+No bind found for key 'K'.
+No bind found for key 'Ì'.
+No bind found for key 'û'.
+No bind found for key '0x11    '.
+No bind found for key '0xe     '.
+No bind found for key 'ݑ'.
+No bind found for key '×'.
+No bind found for key '0x1e    '.
+No bind found for key '¶'.
+No bind found for key '0x2     '.
+No bind found for key '0x11    '.
+No bind found for key '0xe     '.
+No bind found for key '®'.
+No bind found for key '0x1f    '.
+No bind found for key ''.
+No bind found for key 'á'.
+No bind found for key '²'.
+No bind found for key 'æ'.
+No bind found for key 'Á'.
+No bind found for key 'ò'.
+No bind found for key 'Á'.
+No bind found for key 'È'.
+No bind found for key '0x11    '.
+No bind found for key 'G'.
+No bind found for key 'Ë'.
+No bind found for key '¤'.
+No bind found for key ''.
+No bind found for key '0x19    '.
+No bind found for key '»'.
+No bind found for key 'Æ'.
+No bind found for key 'ß'.
+No bind found for key '0x1735ea'.
+No bind found for key 'è'.
+No bind found for key '¥'.
+No bind found for key '0x1c    '.
+No bind found for key 'Ý'.
+No bind found for key '¶'.
+No bind found for key '0x18    '.
+No bind found for key ''.
+No bind found for key 'Ü'.
+No bind found for key 'á'.
+No bind found for key '¤'.
+No bind found for key 'Ó'.
+No bind found for key '\'.
+No bind found for key '¸'.
+No bind found for key 'Í'.
+No bind found for key 'Ú'.
+No bind found for key '©'.
+No bind found for key 'Ú'.
+No bind found for key '޵'.
+No bind found for key 'ö'.
+No bind found for key 'å'.
+No bind found for key '¯'.
+No bind found for key 'ä'.
+No bind found for key ''.
+No bind found for key 'ü'.
+No bind found for key 'Ó'.
+No bind found for key '¥'.
+No bind found for key ''.
+No bind found for key '|'.
+No bind found for key ''.
+No bind found for key '0x2     '.
+No bind found for key 'K'.
+No bind found for key '0       '.
+No bind found for key ''.
+No bind found for key '0x3     '.
+No bind found for key 'Ü'.
+No bind found for key 'Â'.
+No bind found for key 'ò'.
+No bind found for key ''.
+No bind found for key '0x6     '.
+No bind found for key 'G'.
+No bind found for key '|'.
+No bind found for key ''.
+No bind found for key 'µ'.
+No bind found for key ''.
+No bind found for key 'Õ'.
+No bind found for key 'Ë'.
+No bind found for key 'À'.
+No bind found for key 'K'.
+No bind found for key '¢'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '`'.
+No bind found for key 'Â'.
+No bind found for key 'é'.
+No bind found for key 'æ'.
+No bind found for key '"'.
+No bind found for key '´'.
+No bind found for key '0x7     '.
+No bind found for key '´'.
+No bind found for key 'G'.
+No bind found for key '²'.
+No bind found for key 'é'.
+No bind found for key '0xf     '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'Í'.
+No bind found for key ''.
+No bind found for key '°'.
+No bind found for key '·'.
+No bind found for key 'Å'.
+No bind found for key 'Ä'.
+No bind found for key 'g'.
+No bind found for key 'È'.
+No bind found for key 'g'.
+No bind found for key 'É'.
+No bind found for key 'é'.
+No bind found for key 'H'.
+No bind found for key 'M'.
+No bind found for key 'ì'.
+No bind found for key 'K'.
+No bind found for key 'Z'.
+No bind found for key '­'.
+No bind found for key '£'.
+No bind found for key 'Õ'.
+No bind found for key '0x17    '.
+No bind found for key 'G'.
+No bind found for key 'Æ'.
+No bind found for key 'è'.
+No bind found for key 'ï'.
+No bind found for key 'у'.
+No bind found for key 'ù'.
+No bind found for key ''.
+No bind found for key 'ú'.
+No bind found for key ' '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '÷'.
+No bind found for key '0x3     '.
+No bind found for key ','.
+No bind found for key ''.
+No bind found for key 'O'.
+No bind found for key ''.
+No bind found for key ' '.
+No bind found for key '²'.
+No bind found for key ''.
+No bind found for key 'İ'.
+No bind found for key '­'.
+No bind found for key ''.
+No bind found for key '0x14    '.
+No bind found for key ''.
+No bind found for key 'Z'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '¥'.
+No bind found for key 'ü'.
+No bind found for key '0       '.
+No bind found for key ''.
+No bind found for key 'L'.
+No bind found for key 'î'.
+No bind found for key 'ě'.
+No bind found for key '0x2     '.
+No bind found for key 'Ï'.
+No bind found for key 'K'.
+No bind found for key 'ý'.
+No bind found for key ''.
+No bind found for key '%'.
+No bind found for key '¾'.
+No bind found for key '$'.
+No bind found for key 'í'.
+No bind found for key 'Þ'.
+No bind found for key 'î'.
+No bind found for key '0x14    '.
+No bind found for key 'O'.
+No bind found for key ''.
+No bind found for key 'µ'.
+No bind found for key '0x1e    '.
+No bind found for key 'L'.
+No bind found for key 'Ë'.
+No bind found for key 'Á'.
+No bind found for key '0x1a    '.
+No bind found for key '¼'.
+No bind found for key 'ç'.
+No bind found for key '´'.
+No bind found for key 'Þ'.
+No bind found for key 'Z'.
+No bind found for key '¤'.
+No bind found for key '\'.
+No bind found for key '¡'.
+No bind found for key '0x2     '.
+No bind found for key '°'.
+No bind found for key 'ì'.
+No bind found for key '|'.
+No bind found for key '0x14    '.
+No bind found for key '`'.
+No bind found for key 'Æ'.
+No bind found for key '0xb     '.
+No bind found for key ''.
+No bind found for key 'O'.
+No bind found for key 'B'.
+No bind found for key 'ñ'.
+No bind found for key 'ý'.
+No bind found for key '%'.
+No bind found for key 'O'.
+No bind found for key 'E'.
+No bind found for key '0x12    '.
+No bind found for key ''.
+No bind found for key 'é'.
+No bind found for key '°'.
+No bind found for key 'ñ'.
+No bind found for key ''.
+No bind found for key '±'.
+No bind found for key ''.
+No bind found for key 'ñ'.
+No bind found for key 'Ʃ'.
+No bind found for key 'Ó'.
+No bind found for key 'Ú'.
+No bind found for key 'Ú'.
+No bind found for key '`'.
+No bind found for key 'E'.
+No bind found for key '''.
+No bind found for key '÷'.
+No bind found for key 'ù'.
+No bind found for key '´'.
+No bind found for key 'G'.
+No bind found for key 'ù'.
+No bind found for key ''.
+No bind found for key '²'.
+No bind found for key 'Ó'.
+No bind found for key 'ô'.
+No bind found for key ''.
+No bind found for key 'K'.
+No bind found for key 'ý'.
+No bind found for key 'æ'.
+No bind found for key ''.
+No bind found for key '÷'.
+No bind found for key 'Õ'.
+No bind found for key 'Þ'.
+No bind found for key '¸'.
+No bind found for key 'َ'.
+No bind found for key ''.
+No bind found for key '0x1c    '.
+No bind found for key '|'.
+No bind found for key 'Ï'.
+No bind found for key '¶'.
+No bind found for key 'L'.
+No bind found for key '0x2     '.
+No bind found for key '·'.
+No bind found for key 'Ô'.
+No bind found for key 'ó'.
+No bind found for key ''.
+No bind found for key 'ñ'.
+No bind found for key '0x12    '.
+No bind found for key 'һ'.
+No bind found for key '³'.
+No bind found for key '®'.
+No bind found for key 'Á'.
+No bind found for key 'ʈ'.
+No bind found for key 'ù'.
+No bind found for key ''.
+No bind found for key 'M'.
+No bind found for key '¼'.
+No bind found for key 'Ù'.
+No bind found for key 'á'.
+No bind found for key 'ä'.
+No bind found for key '$'.
+No bind found for key 'K'.
+No bind found for key '¯'.
+No bind found for key ''.
+No bind found for key 'Å'.
+No bind found for key '0x12    '.
+No bind found for key 'º'.
+No bind found for key '©'.
+No bind found for key '¢'.
+No bind found for key 'ö'.
+No bind found for key ''.
+No bind found for key 'º'.
+No bind found for key 'ý'.
+No bind found for key 'ß'.
+No bind found for key '|'.
+No bind found for key ''.
+No bind found for key '0x19    '.
+No bind found for key 'æ'.
+No bind found for key 'Õ'.
+No bind found for key 'Ü'.
+No bind found for key '0x17    '.
+No bind found for key '»'.
+No bind found for key '0x1e    '.
+No bind found for key '¼'.
+No bind found for key '0xc     '.
+No bind found for key ''.
+No bind found for key '0xf     '.
+No bind found for key 'ø'.
+No bind found for key '0xb     '.
+No bind found for key 'ã'.
+No bind found for key 'ã'.
+No bind found for key 'Ô'.
+No bind found for key '|'.
+No bind found for key 'g'.
+No bind found for key '½'.
+No bind found for key '0x1a    '.
+No bind found for key 'é'.
+No bind found for key 'þ'.
+No bind found for key 'ý'.
+No bind found for key '~'.
+No bind found for key '0xc     '.
+No bind found for key 'å'.
+No bind found for key 'õ'.
+No bind found for key '0x19    '.
+No bind found for key ''.
+No bind found for key '0x1a    '.
+No bind found for key '­'.
+No bind found for key '\'.
+No bind found for key 'M'.
+No bind found for key '¨'.
+No bind found for key '¯'.
+No bind found for key ''.
+No bind found for key 'ú'.
+No bind found for key '±'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'Ä'.
+No bind found for key '0x1c    '.
+No bind found for key ''.
+No bind found for key 'ë'.
+No bind found for key '÷'.
+No bind found for key ';'.
+No bind found for key '¥'.
+No bind found for key 'Æ'.
+No bind found for key '¥'.
+No bind found for key ''.
+No bind found for key '¡'.
+No bind found for key '0       '.
+No bind found for key '®'.
+No bind found for key 'G'.
+No bind found for key '¤'.
+No bind found for key 'É'.
+No bind found for key '0xe     '.
+No bind found for key ''.
+No bind found for key '£'.
+No bind found for key 'ù'.
+No bind found for key 'ï'.
+No bind found for key 'æ'.
+No bind found for key ''.
+No bind found for key 'Æ'.
+No bind found for key 'û'.
+No bind found for key 'Þ'.
+No bind found for key 'N'.
+No bind found for key 'Ï'.
+No bind found for key 'ï'.
+No bind found for key 'Е'.
+No bind found for key '¥'.
+No bind found for key 'Â'.
+No bind found for key '%'.
+No bind found for key '¹'.
+No bind found for key '®'.
+No bind found for key 'ñ'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'ß'.
+No bind found for key 'ÿ'.
+No bind found for key '0x1a    '.
+No bind found for key '0xe     '.
+No bind found for key 'ð'.
+No bind found for key 'ü'.
+No bind found for key 'Ժ'.
+No bind found for key 'Á'.
+No bind found for key '0x19    '.
+No bind found for key '­'.
+No bind found for key '¦'.
+No bind found for key '"'.
+No bind found for key 'è'.
+No bind found for key '0x1f    '.
+No bind found for key ''.
+No bind found for key '$'.
+No bind found for key 'è'.
+No bind found for key 'Ñ'.
+No bind found for key '¸'.
+No bind found for key '0xb     '.
+No bind found for key 'æ'.
+No bind found for key 'Í'.
+No bind found for key 'Ç'.
+No bind found for key 'g'.
+No bind found for key '¸'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '»'.
+No bind found for key 'ä'.
+No bind found for key 'Ð'.
+No bind found for key 'Î'.
+No bind found for key 'ù'.
+No bind found for key 'ê'.
+No bind found for key 'ð'.
+No bind found for key 'ý'.
+No bind found for key ''.
+No bind found for key '±'.
+No bind found for key '½'.
+No bind found for key 'þ'.
+No bind found for key '$'.
+No bind found for key 'Û'.
+No bind found for key 'Å'.
+No bind found for key '0xb     '.
+No bind found for key ''.
+No bind found for key 'ê'.
+No bind found for key 'G'.
+No bind found for key 'Ø'.
+No bind found for key 'Ù'.
+No bind found for key ';'.
+No bind found for key '³'.
+No bind found for key ''.
+No bind found for key 'î'.
+No bind found for key ''.
+No bind found for key '0x1f    '.
+No bind found for key 'N'.
+No bind found for key 'è'.
+No bind found for key 'ë'.
+No bind found for key 'é'.
+No bind found for key 'ã'.
+No bind found for key '0x1f    '.
+No bind found for key 'ɛ'.
+No bind found for key '0x14    '.
+No bind found for key 'ó'.
+No bind found for key 'ù'.
+No bind found for key '¯'.
+No bind found for key ''.
+No bind found for key '0xb     '.
+No bind found for key 'ò'.
+No bind found for key '¿'.
+No bind found for key 'µ'.
+No bind found for key 'î'.
+No bind found for key 'Z'.
+No bind found for key 'ð'.
+No bind found for key 'Û'.
+No bind found for key 'ú'.
+No bind found for key ''.
+No bind found for key 'M'.
+No bind found for key '%'.
+No bind found for key '0xb     '.
+No bind found for key '0x2     '.
+No bind found for key '²'.
+No bind found for key 'E'.
+No bind found for key 'â'.
+No bind found for key 'È'.
+No bind found for key ';'.
+No bind found for key '¢'.
+No bind found for key '0x6     '.
+No bind found for key 'Á'.
+No bind found for key 'Ó'.
+No bind found for key 'E'.
+No bind found for key 'ý'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'ä'.
+No bind found for key '¬'.
+No bind found for key '?'.
+No bind found for key 'Z'.
+No bind found for key '¹'.
+No bind found for key 'M'.
+No bind found for key '܉'.
+No bind found for key 'ù'.
+No bind found for key '0x18    '.
+No bind found for key ''.
+No bind found for key 'À'.
+No bind found for key 'Ù'.
+No bind found for key 'Ñ'.
+No bind found for key '±'.
+No bind found for key '0x14    '.
+No bind found for key 'ô'.
+No bind found for key ''.
+No bind found for key 'O'.
+No bind found for key 'Ä'.
+No bind found for key '¹'.
+No bind found for key '¢'.
+No bind found for key 'G'.
+No bind found for key '~'.
+No bind found for key '·'.
+No bind found for key 'õ'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '캸'.
+No bind found for key ';'.
+No bind found for key '«'.
+No bind found for key '¹'.
+No bind found for key '®'.
+No bind found for key 'ú'.
+No bind found for key 'L'.
+No bind found for key '$'.
+No bind found for key 'ª'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'B'.
+No bind found for key 'Ð'.
+No bind found for key 'ö'.
+No bind found for key 'M'.
+No bind found for key ''.
+No bind found for key 'ܐ'.
+No bind found for key 'Á'.
+No bind found for key 'Ù'.
+No bind found for key 'Ä'.
+No bind found for key ';'.
+No bind found for key '0x2     '.
+No bind found for key 'Z'.
+No bind found for key '²'.
+No bind found for key ''.
+No bind found for key 'Ã'.
+No bind found for key 'ÿ'.
+No bind found for key ' '.
+No bind found for key 'ý'.
+No bind found for key '0x10    '.
+No bind found for key ''.
+No bind found for key 'È'.
+No bind found for key '$'.
+No bind found for key 'ù'.
+No bind found for key 'ô'.
+No bind found for key 'ô'.
+No bind found for key '­'.
+No bind found for key ''.
+No bind found for key '`'.
+No bind found for key 'ó'.
+No bind found for key 'Ñ'.
+No bind found for key '?'.
+No bind found for key 'ރ'.
+No bind found for key ''.
+No bind found for key '»'.
+No bind found for key 'Ç'.
+No bind found for key 'Y'.
+No bind found for key 'Å'.
+No bind found for key 'è'.
+No bind found for key ''.
+No bind found for key '뽦'.
+No bind found for key ''.
+No bind found for key 'ó'.
+No bind found for key 'O'.
+No bind found for key 'æ'.
+No bind found for key ''.
+No bind found for key 'ٓ'.
+No bind found for key 'Æ'.
+No bind found for key '0x1c    '.
+No bind found for key 'Ç'.
+No bind found for key 'Ç'.
+No bind found for key ':'.
+No bind found for key '¨'.
+No bind found for key '0x1c    '.
+No bind found for key 'Ï'.
+No bind found for key 'Ë'.
+No bind found for key ''.
+No bind found for key '°'.
+No bind found for key 'Ú'.
+No bind found for key 'Û'.
+No bind found for key 'ê'.
+No bind found for key '¾'.
+No bind found for key 'ñ'.
+No bind found for key '§'.
+No bind found for key ''.
+No bind found for key '¥'.
+No bind found for key ''.
+No bind found for key '쪏'.
+No bind found for key 'è'.
+No bind found for key '¹'.
+No bind found for key 'ò'.
+No bind found for key ''.
+No bind found for key 'ö'.
+No bind found for key '¶'.
+No bind found for key '|'.
+No bind found for key 'Í'.
+No bind found for key '\'.
+No bind found for key 'Ù'.
+No bind found for key '¥'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'Î'.
+No bind found for key '¨'.
+No bind found for key 'ó'.
+No bind found for key ''.
+No bind found for key 'Ø'.
+No bind found for key '¶'.
+No bind found for key 'Ú'.
+No bind found for key 'á'.
+No bind found for key '±'.
+No bind found for key ''.
+No bind found for key '¢'.
+No bind found for key 'B'.
+No bind found for key '\'.
+No bind found for key 'L'.
+No bind found for key 'ç'.
+No bind found for key '~'.
+No bind found for key ','.
+No bind found for key 'ó'.
+No bind found for key ''.
+No bind found for key '½'.
+No bind found for key 'Û'.
+No bind found for key 'ä'.
+No bind found for key '&'.
+No bind found for key 'ò'.
+No bind found for key '0x19    '.
+No bind found for key 'í'.
+No bind found for key '©'.
+No bind found for key '½'.
+No bind found for key '0x2     '.
+No bind found for key 'ç'.
+No bind found for key 'ý'.
+No bind found for key '0xc     '.
+No bind found for key '0x1e    '.
+No bind found for key 'é'.
+No bind found for key '0x19    '.
+No bind found for key '¶'.
+No bind found for key '¾'.
+No bind found for key ''.
+No bind found for key 'ë'.
+No bind found for key 'Ï'.
+No bind found for key ''.
+No bind found for key '0x19    '.
+No bind found for key '0x1c    '.
+No bind found for key 'E'.
+No bind found for key '¬'.
+No bind found for key 'À'.
+No bind found for key 'Ò'.
+No bind found for key 'õ'.
+No bind found for key ''.
+No bind found for key '¾'.
+No bind found for key 'ô'.
+No bind found for key ''.
+No bind found for key 'ã'.
+No bind found for key 'y'.
+No bind found for key '"'.
+No bind found for key ' '.
+No bind found for key 'ø'.
+No bind found for key '͏'.
+No bind found for key '±'.
+No bind found for key ''.
+No bind found for key '¹'.
+No bind found for key 'G'.
+No bind found for key '²'.
+No bind found for key '0x18    '.
+No bind found for key 'Á'.
+No bind found for key 'E'.
+No bind found for key ''.
+No bind found for key '\'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '~'.
+No bind found for key 'ƨ'.
+No bind found for key '0x1d    '.
+No bind found for key 'Ú'.
+No bind found for key '0x1c    '.
+No bind found for key '䛹'.
+No bind found for key 'Ò'.
+No bind found for key 'î'.
+No bind found for key ''.
+No bind found for key 'ù'.
+No bind found for key 'ø'.
+No bind found for key '0x7     '.
+No bind found for key '°'.
+No bind found for key '½'.
+No bind found for key 'ô'.
+No bind found for key '`'.
+No bind found for key 'Æ'.
+No bind found for key 'Ó'.
+No bind found for key 'å'.
+No bind found for key '¶'.
+No bind found for key 'Ö'.
+No bind found for key 'Å'.
+No bind found for key '%'.
+No bind found for key 'G'.
+No bind found for key 'Á'.
+No bind found for key '㒻'.
+No bind found for key '0x3     '.
+No bind found for key 'ޖ'.
+No bind found for key 'à'.
+No bind found for key 'È'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'È'.
+No bind found for key ''.
+No bind found for key 'û'.
+No bind found for key 'H'.
+No bind found for key 'À'.
+No bind found for key '¬'.
+No bind found for key 'y'.
+No bind found for key ''.
+No bind found for key '0xe     '.
+No bind found for key ''.
+No bind found for key 'N'.
+No bind found for key 'ç'.
+No bind found for key ''.
+No bind found for key ':'.
+No bind found for key '`'.
+No bind found for key 'Â'.
+No bind found for key 'N'.
+No bind found for key 'ǘ'.
+No bind found for key '0x1f    '.
+No bind found for key 'ù'.
+No bind found for key ''.
+No bind found for key '%'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'þ'.
+No bind found for key '0x3     '.
+No bind found for key '0       '.
+No bind found for key '0x1b    '.
+No bind found for key 'B'.
+No bind found for key 'É'.
+No bind found for key 'ï'.
+No bind found for key '¿'.
+No bind found for key 'ï'.
+No bind found for key 'ݑ'.
+No bind found for key ''.
+No bind found for key 'ô'.
+No bind found for key 'ù'.
+No bind found for key 'g'.
+No bind found for key '0x14    '.
+No bind found for key '?'.
+No bind found for key 'Т'.
+No bind found for key '·'.
+No bind found for key 'î'.
+No bind found for key 'Í'.
+No bind found for key 'ß'.
+No bind found for key 'ð'.
+No bind found for key ''.
+No bind found for key '±'.
+No bind found for key 'ø'.
+No bind found for key ''.
+No bind found for key 'ç'.
+No bind found for key '0x3     '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'à'.
+No bind found for key 'K'.
+No bind found for key '0x1a    '.
+No bind found for key '¡'.
+No bind found for key 'Ä'.
+No bind found for key 'څ'.
+No bind found for key 'O'.
+No bind found for key '0xe     '.
+No bind found for key '¾'.
+No bind found for key '¥'.
+No bind found for key 'Ä'.
+No bind found for key 'á'.
+No bind found for key 'Ù'.
+No bind found for key '0x1d    '.
+No bind found for key 'ܪ'.
+No bind found for key ''.
+No bind found for key '0x12    '.
+No bind found for key '¾'.
+No bind found for key 'å'.
+No bind found for key 'ç'.
+No bind found for key '®'.
+No bind found for key 'ì'.
+No bind found for key ''.
+No bind found for key 'ä'.
+No bind found for key ''.
+No bind found for key '¤'.
+No bind found for key 'ë'.
+No bind found for key 'Ä'.
+No bind found for key '0x17    '.
+No bind found for key '?'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'N'.
+No bind found for key ''.
+No bind found for key 'ý'.
+No bind found for key '­'.
+No bind found for key 'ê'.
+No bind found for key '?'.
+No bind found for key 'E'.
+No bind found for key '׍'.
+No bind found for key '0x7     '.
+No bind found for key ''.
+No bind found for key '''.
+No bind found for key '0x18    '.
+No bind found for key ''.
+No bind found for key 'þ'.
+No bind found for key 'H'.
+No bind found for key '¬'.
+No bind found for key 'Û'.
+No bind found for key ''.
+No bind found for key '?'.
+No bind found for key ''.
+No bind found for key '0x1f    '.
+No bind found for key 'B'.
+No bind found for key '^'.
+No bind found for key 'ú'.
+No bind found for key '0x14    '.
+No bind found for key '֣'.
+No bind found for key '׼'.
+No bind found for key '¸'.
+No bind found for key '¸'.
+No bind found for key '0x7     '.
+No bind found for key '·'.
+No bind found for key 'ê'.
+No bind found for key 'R'.
+No bind found for key 'ú'.
+No bind found for key 'ý'.
+No bind found for key '0x14    '.
+No bind found for key '³'.
+No bind found for key 'î'.
+No bind found for key 'Ñ'.
+No bind found for key 'û'.
+No bind found for key '0x13    '.
+No bind found for key '0xe     '.
+No bind found for key '���'.
+No bind found for key 'Ý'.
+No bind found for key 'É'.
+No bind found for key 'Ø'.
+No bind found for key '0x11    '.
+No bind found for key '0x11    '.
+No bind found for key 'ò'.
+No bind found for key '0xb     '.
+No bind found for key '»'.
+No bind found for key 'ê'.
+No bind found for key 'ý'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '0xb     '.
+No bind found for key ''.
+No bind found for key '0x1a    '.
+No bind found for key '´'.
+No bind found for key ';'.
+No bind found for key 'Ò'.
+No bind found for key 'ù'.
+No bind found for key '0x1c    '.
+No bind found for key 'ý'.
+No bind found for key '¹'.
+No bind found for key 'Ś'.
+No bind found for key '0x7     '.
+No bind found for key 'ï'.
+No bind found for key '0x19    '.
+No bind found for key '0x12    '.
+No bind found for key '©'.
+No bind found for key 'í'.
+No bind found for key ''.
+No bind found for key 'Ë'.
+No bind found for key '0x1e    '.
+No bind found for key 'á'.
+No bind found for key '0x1a    '.
+No bind found for key 'ç'.
+No bind found for key '¥'.
+No bind found for key 'Ë'.
+No bind found for key '¾'.
+No bind found for key '¢'.
+No bind found for key ''.
+No bind found for key '^'.
+No bind found for key 'Æ'.
+No bind found for key 'ë'.
+No bind found for key 'û'.
+No bind found for key 'Ì'.
+No bind found for key '0xf     '.
+No bind found for key 'Ì'.
+No bind found for key 'H'.
+No bind found for key '­'.
+No bind found for key '0x6     '.
+No bind found for key 'H'.
+No bind found for key 'ý'.
+No bind found for key '0x1a    '.
+No bind found for key 'µ'.
+No bind found for key ''.
+No bind found for key 'K'.
+No bind found for key '0x12    '.
+No bind found for key '®'.
+No bind found for key ''.
+No bind found for key 'N'.
+No bind found for key 'Ð'.
+No bind found for key 'á'.
+No bind found for key ','.
+No bind found for key '?'.
+No bind found for key '×'.
+No bind found for key ''.
+No bind found for key 'E'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'Ð'.
+No bind found for key 'K'.
+No bind found for key 'Ñ'.
+No bind found for key ','.
+No bind found for key ' '.
+No bind found for key ''.
+No bind found for key 'ܩ'.
+No bind found for key 'õ'.
+No bind found for key 'ß'.
+No bind found for key '^'.
+No bind found for key '¢'.
+No bind found for key '·'.
+No bind found for key '0xb     '.
+No bind found for key 'è'.
+No bind found for key 'K'.
+No bind found for key '¤'.
+No bind found for key '0x1b    '.
+No bind found for key ''.
+No bind found for key '0x6     '.
+No bind found for key ';'.
+No bind found for key ''.
+No bind found for key '¹'.
+No bind found for key '$'.
+No bind found for key '0x1d    '.
+No bind found for key '¢'.
+No bind found for key 'G'.
+No bind found for key '«'.
+No bind found for key '¨'.
+No bind found for key '½'.
+No bind found for key 'N'.
+No bind found for key ''.
+No bind found for key '甂'.
+No bind found for key '휣'.
+No bind found for key '$'.
+No bind found for key 'ü'.
+No bind found for key '0x1f    '.
+No bind found for key 'ਠ'.
+No bind found for key 'Ï'.
+No bind found for key '0xa     '.
+No bind found for key 'B'.
+No bind found for key '¼'.
+No bind found for key 'ê'.
+No bind found for key 'M'.
+No bind found for key 'á'.
+No bind found for key '%'.
+No bind found for key '®'.
+No bind found for key ''.
+No bind found for key ' '.
+No bind found for key 'ˏ'.
+No bind found for key 'ø'.
+No bind found for key 'ð'.
+No bind found for key 'Ǔ'.
+No bind found for key 'û'.
+No bind found for key 'Ñ'.
+No bind found for key ';'.
+No bind found for key 'Ä'.
+No bind found for key 'á'.
+No bind found for key '0x12    '.
+No bind found for key 'µ'.
+No bind found for key 'å'.
+No bind found for key 'Ø'.
+No bind found for key '^'.
+No bind found for key 'ú'.
+No bind found for key ''.
+No bind found for key 'Ү'.
+No bind found for key 'õ'.
+No bind found for key 'à'.
+No bind found for key '0xf     '.
+No bind found for key '0x7     '.
+No bind found for key 'è'.
+No bind found for key '0x7     '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'Æ'.
+No bind found for key '0x3     '.
+No bind found for key '¹'.
+No bind found for key 'y'.
+No bind found for key 'þ'.
+No bind found for key 'Å'.
+No bind found for key 'Ê'.
+No bind found for key '?'.
+No bind found for key '"'.
+No bind found for key 'Ë'.
+No bind found for key 'Æ'.
+No bind found for key '0x6     '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '×'.
+No bind found for key 'ف'.
+No bind found for key ''.
+No bind found for key 'B'.
+No bind found for key '­'.
+No bind found for key 'E'.
+No bind found for key '"'.
+No bind found for key 'g'.
+No bind found for key '0x12    '.
+No bind found for key ''.
+No bind found for key 'æ'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '0x19    '.
+No bind found for key '܇'.
+No bind found for key 'ì'.
+No bind found for key ''.
+No bind found for key 'ê'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'ö'.
+No bind found for key 'Ê'.
+No bind found for key 'O'.
+No bind found for key '0xc     '.
+No bind found for key 'ó'.
+No bind found for key ''.
+No bind found for key '0x17    '.
+No bind found for key ' '.
+No bind found for key 'ó'.
+No bind found for key 'Y'.
+No bind found for key ''.
+No bind found for key '©'.
+No bind found for key '¯'.
+No bind found for key '¥'.
+No bind found for key 'Ш'.
+No bind found for key ''.
+No bind found for key 'Ӆ'.
+No bind found for key 'y'.
+No bind found for key ':'.
+No bind found for key ''.
+No bind found for key '0x1a    '.
+No bind found for key 'ý'.
+No bind found for key 'ñ'.
+No bind found for key ''.
+No bind found for key '0x17    '.
+No bind found for key 'Ð'.
+No bind found for key '?'.
+No bind found for key 'ö'.
+No bind found for key '÷'.
+No bind found for key '«'.
+No bind found for key 'á'.
+No bind found for key '0x1d    '.
+No bind found for key 'ń'.
+No bind found for key 'E'.
+No bind found for key ''.
+No bind found for key '¢'.
+No bind found for key '|'.
+No bind found for key 'Ò'.
+No bind found for key 'µ'.
+No bind found for key 'ĝ'.
+No bind found for key ''.
+No bind found for key 'Ú'.
+No bind found for key 'Ø'.
+No bind found for key '0x19    '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'À'.
+No bind found for key '÷'.
+No bind found for key 'ï'.
+No bind found for key 'ܽ'.
+No bind found for key 'H'.
+No bind found for key ''.
+No bind found for key 'ô'.
+No bind found for key ''.
+No bind found for key 'Æ'.
+No bind found for key 'Ò'.
+No bind found for key '0x1f    '.
+No bind found for key '''.
+No bind found for key 'Í'.
+No bind found for key 'é'.
+No bind found for key ''.
+No bind found for key 'K'.
+No bind found for key 'ê'.
+No bind found for key '0xe     '.
+No bind found for key 'é'.
+No bind found for key '0x1f    '.
+No bind found for key ''.
+No bind found for key 'Å'.
+No bind found for key 'ù'.
+No bind found for key '¤'.
+No bind found for key 'ô'.
+No bind found for key '¸'.
+No bind found for key '0xf     '.
+No bind found for key '£'.
+No bind found for key 'é'.
+No bind found for key '¸'.
+No bind found for key 'Û'.
+No bind found for key 'K'.
+No bind found for key 'Þ'.
+No bind found for key '˽'.
+No bind found for key '0x1b    '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '¯'.
+No bind found for key '0x1d    '.
+No bind found for key '0x10    '.
+No bind found for key 'G'.
+No bind found for key 'æ'.
+No bind found for key '³'.
+No bind found for key '´'.
+No bind found for key ' '.
+No bind found for key '"'.
+No bind found for key 'G'.
+No bind found for key 'Ò'.
+No bind found for key '$'.
+No bind found for key '¶'.
+No bind found for key 'º'.
+No bind found for key '0x1e    '.
+No bind found for key 'å'.
+No bind found for key 'ü'.
+No bind found for key '0x13    '.
+No bind found for key '®'.
+No bind found for key 'N'.
+No bind found for key '"'.
+No bind found for key '¡'.
+No bind found for key 'Ï'.
+No bind found for key 'þ'.
+No bind found for key '0       '.
+No bind found for key '³'.
+No bind found for key 'ò'.
+No bind found for key 'G'.
+No bind found for key ''.
+No bind found for key '沝'.
+No bind found for key '܅'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '0x13    '.
+No bind found for key 'Þ'.
+No bind found for key '0x10    '.
+No bind found for key 'é'.
+No bind found for key ''.
+No bind found for key 'ê'.
+No bind found for key 'H'.
+No bind found for key 'æ'.
+No bind found for key 'O'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '³'.
+No bind found for key 'K'.
+No bind found for key ''.
+No bind found for key '¨'.
+No bind found for key 'ä'.
+No bind found for key ''.
+No bind found for key 'ÿ'.
+No bind found for key 'O'.
+No bind found for key 'ì'.
+No bind found for key '0x7     '.
+No bind found for key ''.
+No bind found for key '½'.
+No bind found for key '¨'.
+No bind found for key ''.
+No bind found for key '''.
+No bind found for key '£'.
+No bind found for key 'ތ'.
+No bind found for key 'À'.
+No bind found for key '$'.
+No bind found for key 'ý'.
+No bind found for key 'Ö'.
+No bind found for key '~'.
+No bind found for key 'Þ'.
+No bind found for key 'Ë'.
+No bind found for key 'ñ'.
+No bind found for key 'þ'.
+No bind found for key 'ý'.
+No bind found for key ''.
+No bind found for key 'M'.
+No bind found for key 'B'.
+No bind found for key '''.
+No bind found for key '±'.
+No bind found for key 'ñ'.
+No bind found for key ''.
+No bind found for key 'ȩ'.
+No bind found for key '±'.
+No bind found for key ''.
+No bind found for key 'þ'.
+No bind found for key 'ç'.
+No bind found for key '0xc     '.
+No bind found for key '߶'.
+No bind found for key '0x17    '.
+No bind found for key '¸'.
+No bind found for key ''.
+No bind found for key 'ؙ'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '0x17    '.
+No bind found for key '0x11    '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '¹'.
+No bind found for key ''.
+No bind found for key 'Ù'.
+No bind found for key 'y'.
+No bind found for key 'Â'.
+No bind found for key '0x12    '.
+No bind found for key ' '.
+No bind found for key 'B'.
+No bind found for key 'Ú'.
+No bind found for key 'À'.
+No bind found for key '0xb     '.
+No bind found for key 'µ'.
+No bind found for key ' '.
+No bind found for key 'R'.
+No bind found for key '0x1b    '.
+No bind found for key 'н'.
+No bind found for key 'ë'.
+No bind found for key '¢'.
+No bind found for key ''.
+No bind found for key 'ú'.
+No bind found for key 'Æ'.
+No bind found for key 'û'.
+No bind found for key 'K'.
+No bind found for key ''.
+No bind found for key '|'.
+No bind found for key 'Ώ'.
+No bind found for key '0x3     '.
+No bind found for key '0x6     '.
+No bind found for key 'ڪ'.
+No bind found for key 'æ'.
+No bind found for key '0xf     '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '?'.
+No bind found for key 'å'.
+No bind found for key ''.
+No bind found for key 'ë'.
+No bind found for key ':'.
+No bind found for key 'é'.
+No bind found for key '\'.
+No bind found for key 'ï'.
+No bind found for key 'Ӓ'.
+No bind found for key '0x14    '.
+No bind found for key ' '.
+No bind found for key 'ô'.
+No bind found for key '±'.
+No bind found for key '0x1b    '.
+No bind found for key 'L'.
+No bind found for key '?'.
+No bind found for key 'Ü'.
+No bind found for key 'Ù'.
+No bind found for key 'H'.
+No bind found for key '»'.
+No bind found for key ''.
+No bind found for key '0x1e    '.
+No bind found for key 'g'.
+No bind found for key 'Ý'.
+No bind found for key '0xc     '.
+No bind found for key '½'.
+No bind found for key 'É'.
+No bind found for key 'î'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '·'.
+No bind found for key '±'.
+No bind found for key ''.
+No bind found for key '§'.
+No bind found for key 'ó'.
+No bind found for key '"'.
+No bind found for key 'B'.
+No bind found for key '0x12    '.
+No bind found for key 'À'.
+No bind found for key '$'.
+No bind found for key 'å'.
+No bind found for key 'á'.
+No bind found for key 'æ'.
+No bind found for key 'Æ'.
+No bind found for key ''.
+No bind found for key 'í'.
+No bind found for key 'Í'.
+No bind found for key 'À'.
+No bind found for key '鹴'.
+No bind found for key 'Â'.
+No bind found for key '®'.
+No bind found for key '¦'.
+No bind found for key 'K'.
+No bind found for key '¶'.
+No bind found for key '«'.
+No bind found for key '0x1d    '.
+No bind found for key '0x3     '.
+No bind found for key 'Ç'.
+No bind found for key 'Á'.
+No bind found for key '¹'.
+No bind found for key '0x1c    '.
+No bind found for key 'ä'.
+No bind found for key 'þ'.
+No bind found for key 'Ç'.
+No bind found for key 'Z'.
+No bind found for key 'ü'.
+No bind found for key 'º'.
+No bind found for key 'å'.
+No bind found for key 'þ'.
+No bind found for key '0x1c    '.
+No bind found for key '­'.
+No bind found for key 'õ'.
+No bind found for key '¬'.
+No bind found for key 'á'.
+No bind found for key 'ö'.
+No bind found for key 'O'.
+No bind found for key 'í'.
+No bind found for key ''.
+No bind found for key '0x17    '.
+No bind found for key ''.
+No bind found for key 'ð'.
+No bind found for key '`'.
+No bind found for key '¾'.
+No bind found for key '`'.
+No bind found for key 'Ã'.
+No bind found for key 'ö'.
+No bind found for key 'Ï'.
+No bind found for key '½'.
+No bind found for key ''.
+No bind found for key 'é'.
+No bind found for key 'Ψ'.
+No bind found for key '^'.
+No bind found for key '`'.
+No bind found for key '®'.
+No bind found for key '0x7     '.
+No bind found for key ''.
+No bind found for key '~'.
+No bind found for key 'Ú'.
+No bind found for key '0x11    '.
+No bind found for key '²'.
+No bind found for key '0x10    '.
+No bind found for key ''.
+No bind found for key '0x18    '.
+No bind found for key '·'.
+No bind found for key 'ò'.
+No bind found for key 'L'.
+No bind found for key ''.
+No bind found for key '½'.
+No bind found for key 'Ù'.
+No bind found for key '0x11    '.
+No bind found for key 'Ł'.
+No bind found for key '¶'.
+No bind found for key '¢'.
+No bind found for key 'à'.
+No bind found for key '0x12    '.
+No bind found for key '¹'.
+No bind found for key '±'.
+No bind found for key 'O'.
+No bind found for key '¡'.
+No bind found for key '®'.
+No bind found for key 'º'.
+No bind found for key ''.
+No bind found for key 'º'.
+No bind found for key 'Í'.
+No bind found for key 'ú'.
+No bind found for key ''.
+No bind found for key '¤'.
+No bind found for key 'Ñ'.
+No bind found for key '¤'.
+No bind found for key ''.
+No bind found for key '×'.
+No bind found for key '0x6     '.
+No bind found for key ''.
+No bind found for key 'Ù'.
+No bind found for key '»'.
+No bind found for key 'Í'.
+No bind found for key '¦'.
+No bind found for key 'y'.
+No bind found for key '0x3     '.
+No bind found for key 'É'.
+No bind found for key 'Í'.
+No bind found for key '0x19    '.
+No bind found for key '0x6     '.
+No bind found for key 'ç'.
+No bind found for key 'Ò'.
+No bind found for key '\'.
+No bind found for key ''.
+No bind found for key '¹'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'ö'.
+No bind found for key ''.
+No bind found for key '''.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '''.
+No bind found for key '±'.
+No bind found for key 'í'.
+No bind found for key '0xc     '.
+No bind found for key 'M'.
+No bind found for key 'g'.
+No bind found for key '"'.
+No bind found for key '´'.
+No bind found for key 'Ô'.
+No bind found for key 'L'.
+No bind found for key '0x1f    '.
+No bind found for key 'Ò'.
+No bind found for key 'Ä'.
+No bind found for key 'g'.
+No bind found for key 'µ'.
+No bind found for key 'Å'.
+No bind found for key 'ï'.
+No bind found for key 'Î'.
+No bind found for key '\'.
+No bind found for key 'Ä'.
+No bind found for key '0x6     '.
+No bind found for key '¬'.
+No bind found for key 'Ô'.
+No bind found for key 'ì'.
+No bind found for key 'O'.
+No bind found for key '±'.
+No bind found for key ''.
+No bind found for key 'ñ'.
+No bind found for key 'E'.
+No bind found for key 'ê'.
+No bind found for key 'µ'.
+No bind found for key 'ù'.
+No bind found for key '���'.
+No bind found for key 'É'.
+No bind found for key '`'.
+No bind found for key ''.
+No bind found for key '0xf     '.
+No bind found for key 'η'.
+No bind found for key 'L'.
+No bind found for key '0x1d    '.
+No bind found for key 'Õ'.
+No bind found for key '0xf     '.
+No bind found for key ''.
+No bind found for key '¸'.
+No bind found for key 'ã'.
+No bind found for key '¿'.
+No bind found for key '0x1a    '.
+No bind found for key '¥'.
+No bind found for key ''.
+No bind found for key 'â'.
+No bind found for key 'ê'.
+No bind found for key 'Ù'.
+No bind found for key '0x1f    '.
+No bind found for key 'Ë'.
+No bind found for key '\'.
+No bind found for key ''.
+No bind found for key '0x1e    '.
+No bind found for key '¢'.
+No bind found for key '¯'.
+No bind found for key ''.
+No bind found for key '¹'.
+No bind found for key '¥'.
+No bind found for key 'ĉ'.
+No bind found for key '×'.
+No bind found for key 'Ó'.
+No bind found for key 'ô'.
+No bind found for key 'B'.
+No bind found for key 'Á'.
+No bind found for key 'R'.
+No bind found for key 'M'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '³'.
+No bind found for key ''.
+No bind found for key 'ô'.
+No bind found for key 'Z'.
+No bind found for key 'Z'.
+No bind found for key 'ޡ'.
+No bind found for key 'û'.
+No bind found for key 'ñ'.
+No bind found for key 'Ò'.
+No bind found for key 'O'.
+No bind found for key '̞'.
+No bind found for key ''.
+No bind found for key 'Ä'.
+No bind found for key 'ɺ'.
+No bind found for key 'è'.
+No bind found for key '0x11    '.
+No bind found for key 'À'.
+No bind found for key 'K'.
+No bind found for key 'Ï'.
+No bind found for key ''.
+No bind found for key 'û'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '²'.
+No bind found for key '0x2     '.
+No bind found for key 'þ'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'Ø'.
+No bind found for key '0xe     '.
+No bind found for key '±'.
+No bind found for key '0x11    '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '¨'.
+No bind found for key 'Æ'.
+No bind found for key '̓'.
+No bind found for key ''.
+No bind found for key 'ö'.
+No bind found for key '²'.
+No bind found for key '©'.
+No bind found for key 'Æ'.
+No bind found for key '«'.
+No bind found for key '0x2     '.
+No bind found for key '0xe     '.
+No bind found for key 'E'.
+No bind found for key 'Ö'.
+No bind found for key '­'.
+No bind found for key 'ä'.
+No bind found for key '°'.
+No bind found for key '0x1e    '.
+No bind found for key ''.
+No bind found for key '³'.
+No bind found for key 'É'.
+No bind found for key 'À'.
+No bind found for key '0x3     '.
+No bind found for key '0xc     '.
+No bind found for key 'ϫ'.
+No bind found for key '0x1a    '.
+No bind found for key '0x6     '.
+No bind found for key '˝'.
+No bind found for key 'ñ'.
+No bind found for key '0x1c    '.
+No bind found for key 'Ü'.
+No bind found for key '0x18    '.
+No bind found for key '0x6     '.
+No bind found for key 'Ü'.
+No bind found for key '0xf     '.
+No bind found for key '¤'.
+No bind found for key '°'.
+No bind found for key '0x1c    '.
+No bind found for key '0       '.
+No bind found for key 'Ó'.
+No bind found for key 'Ú'.
+No bind found for key 'M'.
+No bind found for key ''.
+No bind found for key '°'.
+No bind found for key '0x11    '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '«'.
+No bind found for key '÷'.
+No bind found for key '­'.
+No bind found for key ''.
+No bind found for key '«'.
+No bind found for key '0x3     '.
+No bind found for key '&'.
+No bind found for key '\'.
+No bind found for key 'î'.
+No bind found for key '²'.
+No bind found for key '·'.
+No bind found for key 'Ã'.
+No bind found for key '$'.
+No bind found for key ''.
+No bind found for key 'Ë'.
+No bind found for key 'ÿ'.
+No bind found for key 'Ü'.
+No bind found for key 'E'.
+No bind found for key 'æ'.
+No bind found for key 'E'.
+No bind found for key ''.
+No bind found for key 'y'.
+No bind found for key 'Ý'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '0xc     '.
+No bind found for key '÷'.
+No bind found for key '`'.
+No bind found for key '£'.
+No bind found for key ''.
+No bind found for key '0x2     '.
+No bind found for key ';'.
+No bind found for key 'â'.
+No bind found for key ''.
+No bind found for key '¦'.
+No bind found for key 'µ'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '0xe     '.
+No bind found for key 'Ö'.
+No bind found for key 'ö'.
+No bind found for key 'ؖ'.
+No bind found for key ''.
+No bind found for key 'ú'.
+No bind found for key '0x1c    '.
+No bind found for key 'g'.
+No bind found for key ''.
+No bind found for key 'g'.
+No bind found for key ''.
+No bind found for key '߿'.
+No bind found for key 'ª'.
+No bind found for key '0x1b    '.
+No bind found for key 'ô'.
+No bind found for key '§'.
+No bind found for key 'þ'.
+No bind found for key 'ְ'.
+No bind found for key '´'.
+No bind found for key ''.
+No bind found for key 'Ê'.
+No bind found for key 'G'.
+No bind found for key '±'.
+No bind found for key 'Ø'.
+No bind found for key '0x3     '.
+No bind found for key 'þ'.
+No bind found for key 'Z'.
+No bind found for key 'í'.
+No bind found for key '¼'.
+No bind found for key 'B'.
+No bind found for key '&'.
+No bind found for key 'û'.
+No bind found for key '­'.
+No bind found for key 'þ'.
+No bind found for key '¼'.
+No bind found for key '¸'.
+No bind found for key '÷'.
+No bind found for key '·'.
+No bind found for key '0x1e    '.
+No bind found for key 'Ŷ'.
+No bind found for key ':'.
+No bind found for key '¦'.
+No bind found for key '$'.
+No bind found for key '߸'.
+No bind found for key '0x1a    '.
+No bind found for key '0       '.
+No bind found for key '0x18    '.
+No bind found for key 'ÿ'.
+No bind found for key '0x1a    '.
+No bind found for key 'ó'.
+No bind found for key '0x11    '.
+No bind found for key '±'.
+No bind found for key ''.
+No bind found for key '£'.
+No bind found for key '¹'.
+No bind found for key '±'.
+No bind found for key 'ø'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'B'.
+No bind found for key '0xf     '.
+No bind found for key '¾'.
+No bind found for key 'þ'.
+No bind found for key '؄'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '0x1e    '.
+No bind found for key '''.
+No bind found for key 'ñ'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '¹'.
+No bind found for key ''.
+No bind found for key '¡'.
+No bind found for key '¦'.
+No bind found for key '0x19    '.
+No bind found for key 'á'.
+No bind found for key '0xb     '.
+No bind found for key '0xf     '.
+No bind found for key ''.
+No bind found for key '?'.
+No bind found for key 'ù'.
+No bind found for key '0x7     '.
+No bind found for key '0x14    '.
+No bind found for key 'O'.
+No bind found for key '0x1b    '.
+No bind found for key '¶'.
+No bind found for key 'â'.
+No bind found for key 'â'.
+No bind found for key 'Ö'.
+No bind found for key 'Û'.
+No bind found for key '%'.
+No bind found for key 'R'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'ñ'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'Ê'.
+No bind found for key 'Z'.
+No bind found for key 'g'.
+No bind found for key '¥'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '¹'.
+No bind found for key 'á'.
+No bind found for key '?'.
+No bind found for key 'â'.
+No bind found for key 'Ɠ'.
+No bind found for key '¬'.
+No bind found for key 'ç'.
+No bind found for key 'À'.
+No bind found for key ''.
+No bind found for key '0x14    '.
+No bind found for key '~'.
+No bind found for key ';'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '³'.
+No bind found for key '|'.
+No bind found for key ''.
+No bind found for key ':'.
+No bind found for key ','.
+No bind found for key 'º'.
+No bind found for key '^'.
+No bind found for key '0x17    '.
+No bind found for key '0x1f    '.
+No bind found for key 'K'.
+No bind found for key 'º'.
+No bind found for key ''.
+No bind found for key 'õ'.
+No bind found for key ''.
+No bind found for key 'Ú'.
+No bind found for key 'Ã'.
+No bind found for key 'ö'.
+No bind found for key '¾'.
+No bind found for key 'Ì'.
+No bind found for key 'é'.
+No bind found for key 'ù'.
+No bind found for key '0x13    '.
+No bind found for key 'î'.
+No bind found for key 'Ó'.
+No bind found for key 'Æ'.
+No bind found for key '0x1a    '.
+No bind found for key '0x7     '.
+No bind found for key '0x10    '.
+No bind found for key ''.
+No bind found for key '§'.
+No bind found for key 'ù'.
+No bind found for key 'é'.
+No bind found for key ''.
+No bind found for key 'ð'.
+No bind found for key 'ڌ'.
+No bind found for key '£'.
+No bind found for key 'Ä'.
+No bind found for key 'ý'.
+No bind found for key 'ú'.
+No bind found for key '0x11    '.
+No bind found for key '^'.
+No bind found for key 'à'.
+No bind found for key 'ã'.
+No bind found for key 'Ý'.
+No bind found for key 'Ý'.
+No bind found for key '¢'.
+No bind found for key 'Ò'.
+No bind found for key 'ù'.
+No bind found for key '©'.
+No bind found for key 'È'.
+No bind found for key ''.
+No bind found for key '®'.
+No bind found for key '¦'.
+No bind found for key 'ô'.
+No bind found for key 'Ù'.
+No bind found for key 'Ô'.
+No bind found for key ''.
+No bind found for key '¯'.
+No bind found for key 'å'.
+No bind found for key '0x2     '.
+No bind found for key '¤'.
+No bind found for key 'Ï'.
+No bind found for key '0x1a    '.
+No bind found for key 'Ï'.
+No bind found for key 'ÿ'.
+No bind found for key ''.
+No bind found for key 'î'.
+No bind found for key '0x1e    '.
+No bind found for key 'E'.
+No bind found for key 'º'.
+No bind found for key '0xe     '.
+No bind found for key 'Å'.
+No bind found for key '0x7     '.
+No bind found for key 'Ù'.
+No bind found for key '~'.
+No bind found for key 'ñ'.
+No bind found for key 'Ç'.
+No bind found for key 'E'.
+No bind found for key '¨'.
+No bind found for key 'N'.
+No bind found for key ''.
+No bind found for key '²'.
+No bind found for key 'M'.
+No bind found for key 'ú'.
+No bind found for key '0x10    '.
+No bind found for key 'Î'.
+No bind found for key ','.
+No bind found for key ''.
+No bind found for key 'Ç'.
+No bind found for key 'È'.
+No bind found for key 'í'.
+No bind found for key 'Õ'.
+No bind found for key 'B'.
+No bind found for key '«'.
+No bind found for key '0x1e    '.
+No bind found for key '©'.
+No bind found for key 'G'.
+No bind found for key ''.
+No bind found for key '0xb     '.
+No bind found for key 'Ê'.
+No bind found for key 'ø'.
+No bind found for key 'Á'.
+No bind found for key '0x10    '.
+No bind found for key ''.
+No bind found for key 'ä'.
+No bind found for key 'ð'.
+No bind found for key 'Y'.
+No bind found for key ''.
+No bind found for key 'H'.
+No bind found for key 'þ'.
+No bind found for key ''.
+No bind found for key 'ѹ'.
+No bind found for key 'Z'.
+No bind found for key '`'.
+No bind found for key '0x12    '.
+No bind found for key 'ò'.
+No bind found for key 'ª'.
+No bind found for key 'Ê'.
+No bind found for key 'ü'.
+No bind found for key 'ë'.
+No bind found for key 'Á'.
+No bind found for key 'á'.
+No bind found for key 'Z'.
+No bind found for key '¼'.
+No bind found for key ''.
+No bind found for key 'Û'.
+No bind found for key 'Ñ'.
+No bind found for key '0x1c    '.
+No bind found for key '0x1a    '.
+No bind found for key 'ù'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'B'.
+No bind found for key 'y'.
+No bind found for key 'á'.
+No bind found for key '¬'.
+No bind found for key 'ò'.
+No bind found for key 'þ'.
+No bind found for key 'ï'.
+No bind found for key 'Ê'.
+No bind found for key 'ß'.
+No bind found for key 'î'.
+No bind found for key 'ð'.
+No bind found for key ''.
+No bind found for key 'þ'.
+No bind found for key '''.
+No bind found for key 'Ô'.
+No bind found for key 'Ø'.
+No bind found for key ''.
+No bind found for key 'Á'.
+No bind found for key '0x13    '.
+No bind found for key 'H'.
+No bind found for key 'þ'.
+No bind found for key ''.
+No bind found for key '¯'.
+No bind found for key 'y'.
+No bind found for key '0x19    '.
+No bind found for key ''.
+No bind found for key '£'.
+No bind found for key 'Y'.
+No bind found for key 'Ì'.
+No bind found for key 'B'.
+No bind found for key 'ø'.
+No bind found for key 'Ǆ'.
+No bind found for key 'Þ'.
+No bind found for key 'è'.
+No bind found for key '0x6     '.
+No bind found for key '¹'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '0x1f    '.
+No bind found for key 'ä'.
+No bind found for key 'N'.
+No bind found for key 'ñ'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key ':'.
+No bind found for key 'é'.
+No bind found for key 'K'.
+No bind found for key 'Þ'.
+No bind found for key 'È'.
+No bind found for key 'æ'.
+No bind found for key '&'.
+No bind found for key '^'.
+No bind found for key '0x6     '.
+No bind found for key ''.
+No bind found for key '0x13    '.
+No bind found for key '%'.
+No bind found for key 'ä'.
+No bind found for key '§'.
+No bind found for key 'R'.
+No bind found for key 'ø'.
+No bind found for key '0x3     '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'Ì'.
+No bind found for key '¯'.
+No bind found for key 'ó'.
+No bind found for key 'Ϻ'.
+No bind found for key 'R'.
+No bind found for key 'Þ'.
+No bind found for key 'ò'.
+No bind found for key '§'.
+No bind found for key 'Ñ'.
+No bind found for key '×'.
+No bind found for key 'Z'.
+No bind found for key 'R'.
+No bind found for key '«'.
+No bind found for key 'G'.
+No bind found for key 'Y'.
+No bind found for key 'L'.
+No bind found for key '0x7     '.
+No bind found for key '0xc     '.
+No bind found for key 'Ó'.
+No bind found for key 'È'.
+No bind found for key 'º'.
+No bind found for key '0x176b84'.
+No bind found for key ''.
+No bind found for key '¢'.
+No bind found for key '?'.
+No bind found for key '\'.
+No bind found for key ''.
+No bind found for key '½'.
+No bind found for key ''.
+No bind found for key 'µ'.
+No bind found for key '?'.
+No bind found for key 'Ý'.
+No bind found for key '¾'.
+No bind found for key ''.
+No bind found for key '¶'.
+No bind found for key 'M'.
+No bind found for key '½'.
+No bind found for key '©'.
+No bind found for key '¼'.
+No bind found for key '¯'.
+No bind found for key 'É'.
+No bind found for key 'M'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'Y'.
+No bind found for key 'Ø'.
+No bind found for key 'Ü'.
+No bind found for key 'À'.
+No bind found for key 'y'.
+No bind found for key ''.
+No bind found for key 'Ó'.
+No bind found for key '0x18    '.
+No bind found for key 'Û'.
+No bind found for key '0x1e    '.
+No bind found for key 'H'.
+No bind found for key 'ª'.
+No bind found for key 'û'.
+No bind found for key 'Ý'.
+No bind found for key 'Ñ'.
+No bind found for key 'þ'.
+No bind found for key 'Ä'.
+No bind found for key 'ܛ'.
+No bind found for key 'ʊ'.
+No bind found for key ''.
+No bind found for key '0x1e    '.
+No bind found for key 'Ó'.
+No bind found for key 'ߪ'.
+No bind found for key '0xf     '.
+No bind found for key '0x11    '.
+No bind found for key 'Æ'.
+No bind found for key '0x13    '.
+No bind found for key ';'.
+No bind found for key 'û'.
+No bind found for key 'L'.
+No bind found for key '½'.
+No bind found for key ''.
+No bind found for key '¶'.
+No bind found for key 'R'.
+No bind found for key '''.
+No bind found for key '̧'.
+No bind found for key 'ٞ'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'º'.
+No bind found for key 'Ý'.
+No bind found for key 'Â'.
+No bind found for key 'õ'.
+No bind found for key '¢'.
+No bind found for key 'ù'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'y'.
+No bind found for key '0x6     '.
+No bind found for key 'å'.
+No bind found for key '²'.
+No bind found for key '0x7     '.
+No bind found for key '±'.
+No bind found for key 'Y'.
+No bind found for key '0x2     '.
+No bind found for key '¦'.
+No bind found for key 'â'.
+No bind found for key 'ó'.
+No bind found for key '0x1d    '.
+No bind found for key '0xe     '.
+No bind found for key 'Ä'.
+No bind found for key ','.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '0xf     '.
+No bind found for key '²'.
+No bind found for key ''.
+No bind found for key 'í'.
+No bind found for key 'ÿ'.
+No bind found for key 'ù'.
+No bind found for key ''.
+No bind found for key '£'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '0x6     '.
+No bind found for key ''.
+No bind found for key 'B'.
+No bind found for key 'N'.
+No bind found for key 'K'.
+No bind found for key ''.
+No bind found for key 'ع'.
+No bind found for key 'þ'.
+No bind found for key '¼'.
+No bind found for key ''.
+No bind found for key '^'.
+No bind found for key '¨'.
+No bind found for key '0x6     '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '²'.
+No bind found for key '­'.
+No bind found for key 'Ð'.
+No bind found for key 'Ì'.
+No bind found for key '0x1e    '.
+No bind found for key '±'.
+No bind found for key ''.
+No bind found for key 'ü'.
+No bind found for key '^'.
+No bind found for key ';'.
+No bind found for key '¦'.
+No bind found for key '0x1c    '.
+No bind found for key '&'.
+No bind found for key 'Ñ'.
+No bind found for key '0x7     '.
+No bind found for key '&'.
+No bind found for key '~'.
+No bind found for key ''.
+No bind found for key 'ù'.
+No bind found for key 'û'.
+No bind found for key '0       '.
+No bind found for key 'Ü'.
+No bind found for key 'ë'.
+No bind found for key ','.
+No bind found for key 'å'.
+No bind found for key 'K'.
+No bind found for key ''.
+No bind found for key 'û'.
+No bind found for key '&'.
+No bind found for key 'é'.
+No bind found for key 'Ö'.
+No bind found for key '0xb     '.
+No bind found for key 'Þ'.
+No bind found for key 'Ù'.
+No bind found for key 'H'.
+No bind found for key ':'.
+No bind found for key '÷'.
+No bind found for key 'ͼ'.
+No bind found for key '´'.
+No bind found for key 'ä'.
+No bind found for key '?'.
+No bind found for key '±'.
+No bind found for key '¤'.
+No bind found for key '~'.
+No bind found for key 'y'.
+No bind found for key '0x1b    '.
+No bind found for key '$'.
+No bind found for key '0x19    '.
+No bind found for key ''.
+No bind found for key 'ñ'.
+No bind found for key '~'.
+No bind found for key '¹'.
+No bind found for key 'Å'.
+No bind found for key '0x1e    '.
+No bind found for key 'á'.
+No bind found for key ''.
+No bind found for key 'þ'.
+No bind found for key ''.
+No bind found for key 'ê'.
+No bind found for key '0xc     '.
+No bind found for key '¦'.
+No bind found for key 'Ô'.
+No bind found for key 'O'.
+No bind found for key '¢'.
+No bind found for key '¦'.
+No bind found for key '·'.
+No bind found for key '­'.
+No bind found for key ''.
+No bind found for key ';'.
+No bind found for key 'ç'.
+No bind found for key '0x17    '.
+No bind found for key 'Á'.
+No bind found for key '޼'.
+No bind found for key ''.
+No bind found for key '̍'.
+No bind found for key 'º'.
+No bind found for key 'é'.
+No bind found for key '´'.
+No bind found for key 'ã'.
+No bind found for key 'E'.
+No bind found for key '&'.
+No bind found for key '0xe     '.
+No bind found for key 'Í'.
+No bind found for key 'ü'.
+No bind found for key '\'.
+No bind found for key ''.
+No bind found for key '0xf     '.
+No bind found for key 'Ö'.
+No bind found for key 'M'.
+No bind found for key ''.
+No bind found for key 'ó'.
+No bind found for key 'Y'.
+No bind found for key '0x14    '.
+No bind found for key 'Î'.
+No bind found for key ''.
+No bind found for key 'E'.
+No bind found for key 'Ò'.
+No bind found for key 'Ñ'.
+No bind found for key '"'.
+No bind found for key '^'.
+No bind found for key ''.
+No bind found for key '°'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'ç'.
+No bind found for key '׶'.
+No bind found for key 'í'.
+No bind found for key 'M'.
+No bind found for key '0x1d    '.
+No bind found for key ''.
+No bind found for key 'R'.
+No bind found for key 'g'.
+No bind found for key 'Ð'.
+No bind found for key 'ø'.
+No bind found for key 'Õ'.
+No bind found for key ''.
+No bind found for key '0x11    '.
+No bind found for key '¥'.
+No bind found for key 'L'.
+No bind found for key ''.
+No bind found for key '©'.
+No bind found for key ''.
+No bind found for key '껞'.
+No bind found for key 'g'.
+No bind found for key '0x11    '.
+No bind found for key 'ç'.
+No bind found for key '0x14    '.
+No bind found for key 'ú'.
+No bind found for key 'y'.
+No bind found for key '"'.
+No bind found for key 'G'.
+No bind found for key '¢'.
+No bind found for key 'è'.
+No bind found for key '%'.
+No bind found for key '¢'.
+No bind found for key 'â'.
+No bind found for key 'û'.
+No bind found for key 'ܶ'.
+No bind found for key '¤'.
+No bind found for key '¼'.
+No bind found for key 'Ç'.
+No bind found for key 'î'.
+No bind found for key 'B'.
+No bind found for key 'M'.
+No bind found for key '0xb     '.
+No bind found for key 'ì'.
+No bind found for key '0x2     '.
+No bind found for key 'º'.
+No bind found for key '0xe     '.
+No bind found for key 'ñ'.
+No bind found for key '\'.
+No bind found for key 'å'.
+No bind found for key 'Ú'.
+No bind found for key 'ö'.
+No bind found for key 'Ê'.
+No bind found for key 'ѳ'.
+No bind found for key '0x2     '.
+No bind found for key '㘝'.
+No bind found for key ''.
+No bind found for key '"'.
+No bind found for key ''.
+No bind found for key 'Ì'.
+No bind found for key '0x1e    '.
+No bind found for key ','.
+No bind found for key 'K'.
+No bind found for key ''.
+No bind found for key '´'.
+No bind found for key '±'.
+No bind found for key 'á'.
+No bind found for key '­'.
+No bind found for key 'ù'.
+No bind found for key '²'.
+No bind found for key 'ß'.
+No bind found for key 'L'.
+No bind found for key '¾'.
+No bind found for key ''.
+No bind found for key '0x1d    '.
+No bind found for key 'ܐ'.
+No bind found for key '¸'.
+No bind found for key '0x11    '.
+No bind found for key '¤'.
+No bind found for key ''.
+No bind found for key 'Ә'.
+No bind found for key 'º'.
+No bind found for key 'á'.
+No bind found for key 'ã'.
+No bind found for key 'Þ'.
+No bind found for key '0x1c    '.
+No bind found for key '°'.
+No bind found for key 'ü'.
+No bind found for key '´'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '"'.
+No bind found for key '¬'.
+No bind found for key '¯'.
+No bind found for key ''.
+No bind found for key '·'.
+No bind found for key 'å'.
+No bind found for key '¸'.
+No bind found for key '0x1f2dc7'.
+No bind found for key 'î'.
+No bind found for key 'Î'.
+No bind found for key 'L'.
+No bind found for key '­'.
+No bind found for key ''.
+No bind found for key 'ò'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'ޛ'.
+No bind found for key 'ò'.
+No bind found for key '''.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'Ä'.
+No bind found for key 'ö'.
+No bind found for key ''.
+No bind found for key 'é'.
+No bind found for key '¦'.
+No bind found for key 'Y'.
+No bind found for key 'ç'.
+No bind found for key '0       '.
+No bind found for key '¨'.
+No bind found for key '0xf     '.
+No bind found for key ''.
+No bind found for key 'Ý'.
+No bind found for key 'y'.
+No bind found for key 'ۼ'.
+No bind found for key ''.
+No bind found for key 'Ò'.
+No bind found for key 'Ä'.
+No bind found for key 'R'.
+No bind found for key '÷'.
+No bind found for key ''.
+No bind found for key 'ë'.
+No bind found for key 'æ'.
+No bind found for key 'ù'.
+No bind found for key 'þ'.
+No bind found for key ''.
+No bind found for key '¤'.
+No bind found for key '»'.
+No bind found for key '°'.
+No bind found for key 'Û'.
+No bind found for key '''.
+No bind found for key ''.
+No bind found for key '0x1b350d'.
+No bind found for key 'à'.
+No bind found for key 'L'.
+No bind found for key 'Þ'.
+No bind found for key '0x1c    '.
+No bind found for key 'Ã'.
+No bind found for key 'ñ'.
+No bind found for key 'Y'.
+No bind found for key 'G'.
+No bind found for key '¢'.
+No bind found for key 'Á'.
+No bind found for key ','.
+No bind found for key 'Ü'.
+No bind found for key 'ï'.
+No bind found for key '¿'.
+No bind found for key '&'.
+No bind found for key '0xf     '.
+No bind found for key '®'.
+No bind found for key '²'.
+No bind found for key ':'.
+No bind found for key '¼'.
+No bind found for key 'º'.
+No bind found for key 'Ü'.
+No bind found for key 'à'.
+No bind found for key '޼'.
+No bind found for key 'g'.
+No bind found for key 'Ï'.
+No bind found for key 'õ'.
+No bind found for key ''.
+No bind found for key '0x13    '.
+No bind found for key '³'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '0xc     '.
+No bind found for key '$'.
+No bind found for key '%'.
+No bind found for key ''.
+No bind found for key '¡'.
+No bind found for key '¶'.
+No bind found for key 'ï'.
+No bind found for key 'Ù'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'Ì'.
+No bind found for key 'Ú'.
+No bind found for key 'ã'.
+No bind found for key 'õ'.
+No bind found for key 'ö'.
+No bind found for key ''.
+No bind found for key '0xc     '.
+No bind found for key 'õ'.
+No bind found for key '0xb     '.
+No bind found for key '»'.
+No bind found for key '~'.
+No bind found for key '×'.
+No bind found for key '0x11    '.
+No bind found for key '¢'.
+No bind found for key 'M'.
+No bind found for key ''.
+No bind found for key 'Ò'.
+No bind found for key '0xb     '.
+No bind found for key 'µ'.
+No bind found for key ''.
+No bind found for key 'O'.
+No bind found for key '''.
+No bind found for key '؞'.
+No bind found for key ','.
+No bind found for key ''.
+No bind found for key 'º'.
+No bind found for key '¬'.
+No bind found for key '0       '.
+No bind found for key 'ë'.
+No bind found for key '«'.
+No bind found for key '&'.
+No bind found for key ';'.
+No bind found for key ''.
+No bind found for key '¹'.
+No bind found for key 'î'.
+No bind found for key 'é'.
+No bind found for key '¾'.
+No bind found for key '¢'.
+No bind found for key '0x11    '.
+No bind found for key '?'.
+No bind found for key 'K'.
+No bind found for key '0x7     '.
+No bind found for key 'ð'.
+No bind found for key 'Ö'.
+No bind found for key 'H'.
+No bind found for key '0xb     '.
+No bind found for key '0x13    '.
+No bind found for key '`'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'º'.
+No bind found for key ';'.
+No bind found for key '0       '.
+No bind found for key 'ß'.
+No bind found for key 'Å'.
+No bind found for key '0x19    '.
+No bind found for key 'y'.
+No bind found for key 'ÿ'.
+No bind found for key '$'.
+No bind found for key '0x11    '.
+No bind found for key 'Ú'.
+No bind found for key 'è'.
+No bind found for key '0xc     '.
+No bind found for key ''.
+No bind found for key 'Z'.
+No bind found for key ','.
+No bind found for key 'M'.
+No bind found for key '¯'.
+No bind found for key 'ê'.
+No bind found for key 'Õ'.
+No bind found for key ';'.
+No bind found for key '¿'.
+No bind found for key 'ö'.
+No bind found for key ''.
+No bind found for key 'O'.
+No bind found for key '¤'.
+No bind found for key '­'.
+No bind found for key '0xe     '.
+No bind found for key ''.
+No bind found for key '0x3     '.
+No bind found for key 'Ó'.
+No bind found for key 'ù'.
+No bind found for key 'á'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '0       '.
+No bind found for key 'û'.
+No bind found for key '0x1f    '.
+No bind found for key '''.
+No bind found for key ''.
+No bind found for key '0xb     '.
+No bind found for key ''.
+No bind found for key 'å'.
+No bind found for key 'G'.
+No bind found for key ''.
+No bind found for key 'Ñ'.
+No bind found for key 'Æ'.
+No bind found for key '"'.
+No bind found for key '0x10    '.
+No bind found for key '0xb     '.
+No bind found for key '%'.
+No bind found for key 'É'.
+No bind found for key '%'.
+No bind found for key 'à'.
+No bind found for key 'M'.
+No bind found for key '0xf     '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'â'.
+No bind found for key 'B'.
+No bind found for key '0x7     '.
+No bind found for key 'Y'.
+No bind found for key '³'.
+No bind found for key '0x10    '.
+No bind found for key 'º'.
+No bind found for key 'g'.
+No bind found for key '0xb     '.
+No bind found for key '·'.
+No bind found for key 'â'.
+No bind found for key 'B'.
+No bind found for key '¼'.
+No bind found for key 'g'.
+No bind found for key '»'.
+No bind found for key 'Ö'.
+No bind found for key 'ã'.
+No bind found for key '·'.
+No bind found for key 'Î'.
+No bind found for key '`'.
+No bind found for key '«'.
+No bind found for key 'H'.
+No bind found for key ' '.
+No bind found for key '§'.
+No bind found for key 'H'.
+No bind found for key 'Þ'.
+No bind found for key '`'.
+No bind found for key '·'.
+No bind found for key 'Z'.
+No bind found for key 'ç'.
+No bind found for key '~'.
+No bind found for key '?'.
+No bind found for key '§'.
+No bind found for key '²'.
+No bind found for key '¤'.
+No bind found for key 'Ú'.
+No bind found for key '0x1f    '.
+No bind found for key ''.
+No bind found for key ':'.
+No bind found for key 'ó'.
+No bind found for key '°'.
+No bind found for key '0       '.
+No bind found for key '^'.
+No bind found for key '÷'.
+No bind found for key '`'.
+No bind found for key '0xe     '.
+No bind found for key 'M'.
+No bind found for key 'Ë'.
+No bind found for key '0x7     '.
+No bind found for key '¹'.
+No bind found for key '0x19    '.
+No bind found for key '0x12    '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '˭'.
+No bind found for key '¹'.
+No bind found for key '²'.
+No bind found for key '&'.
+No bind found for key 'é'.
+No bind found for key 'è'.
+No bind found for key 'R'.
+No bind found for key '³'.
+No bind found for key 'ß'.
+No bind found for key '0xc     '.
+No bind found for key ''.
+No bind found for key '¢'.
+No bind found for key 'Ƴ'.
+No bind found for key 'Ø'.
+No bind found for key 'ø'.
+No bind found for key ','.
+No bind found for key 'Ú'.
+No bind found for key '©'.
+No bind found for key 'Ó'.
+No bind found for key 'Ê'.
+No bind found for key 'Ü'.
+No bind found for key 'ÿ'.
+No bind found for key 'µ'.
+No bind found for key 'ó'.
+No bind found for key '§'.
+No bind found for key '¨'.
+No bind found for key 'ã'.
+No bind found for key 'Û'.
+No bind found for key '0xc     '.
+No bind found for key ' '.
+No bind found for key '¦'.
+No bind found for key '0x12    '.
+No bind found for key '''.
+No bind found for key '0x7     '.
+No bind found for key 'É'.
+No bind found for key '±'.
+No bind found for key 'ϛ'.
+No bind found for key ''.
+No bind found for key '«'.
+No bind found for key '0x6     '.
+No bind found for key 'Ä'.
+No bind found for key '`'.
+No bind found for key '0x10    '.
+No bind found for key 'õ'.
+No bind found for key ''.
+No bind found for key '0x19    '.
+No bind found for key '¼'.
+No bind found for key 'à'.
+No bind found for key 'µ'.
+No bind found for key 'ï'.
+No bind found for key '0x1b    '.
+No bind found for key 'ª'.
+No bind found for key 'ø'.
+No bind found for key 'í'.
+No bind found for key 'µ'.
+No bind found for key '¼'.
+No bind found for key '0x11    '.
+No bind found for key '0x11    '.
+No bind found for key '0xe     '.
+No bind found for key 'H'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'Ò'.
+No bind found for key 'O'.
+No bind found for key ''.
+No bind found for key '÷'.
+No bind found for key '0xe     '.
+No bind found for key ''.
+No bind found for key 'Ê'.
+No bind found for key 'Ć'.
+No bind found for key '0xb     '.
+No bind found for key 'L'.
+No bind found for key '^'.
+No bind found for key '¼'.
+No bind found for key '·'.
+No bind found for key '|'.
+No bind found for key '¹'.
+No bind found for key 'ý'.
+No bind found for key ''.
+No bind found for key '°'.
+No bind found for key 'O'.
+No bind found for key 'N'.
+No bind found for key 'ã'.
+No bind found for key 'û'.
+No bind found for key 'Â'.
+No bind found for key 'é'.
+No bind found for key '|'.
+No bind found for key '0x18    '.
+No bind found for key ''.
+No bind found for key '0       '.
+No bind found for key 'Ê'.
+No bind found for key ';'.
+No bind found for key 'Í'.
+No bind found for key 'ý'.
+No bind found for key 'Õ'.
+No bind found for key '"'.
+No bind found for key 'G'.
+No bind found for key 'Ü'.
+No bind found for key 'ù'.
+No bind found for key 'B'.
+No bind found for key '½'.
+No bind found for key ','.
+No bind found for key ''.
+No bind found for key 'è'.
+No bind found for key ''.
+No bind found for key 'E'.
+No bind found for key 'Ö'.
+No bind found for key '0x1e    '.
+No bind found for key '¦'.
+No bind found for key 'ø'.
+No bind found for key '¢'.
+No bind found for key ''.
+No bind found for key 'K'.
+No bind found for key '\'.
+No bind found for key 'Ò'.
+No bind found for key '¡'.
+No bind found for key 'Y'.
+No bind found for key '?'.
+No bind found for key 'ó'.
+No bind found for key ''.
+No bind found for key 'g'.
+No bind found for key 'y'.
+No bind found for key ''.
+No bind found for key '¶'.
+No bind found for key '^'.
+No bind found for key ''.
+No bind found for key 'á'.
+No bind found for key 'ñ'.
+No bind found for key 'Y'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'ֶ'.
+No bind found for key '¥'.
+No bind found for key ''.
+No bind found for key 'ؾ'.
+No bind found for key '½'.
+No bind found for key ''.
+No bind found for key '0x7     '.
+No bind found for key ''.
+No bind found for key 'Ê'.
+No bind found for key '0x7     '.
+No bind found for key 'Z'.
+No bind found for key '0xb     '.
+No bind found for key 'ú'.
+No bind found for key '©'.
+No bind found for key 'ñ'.
+No bind found for key 'y'.
+No bind found for key 'Ü'.
+No bind found for key 'í'.
+No bind found for key 'ë'.
+No bind found for key '0x14    '.
+No bind found for key '»'.
+No bind found for key 'Ú'.
+No bind found for key 'Û'.
+No bind found for key 'þ'.
+No bind found for key 'ü'.
+No bind found for key '0x10    '.
+No bind found for key '0x11    '.
+No bind found for key '~'.
+No bind found for key '`'.
+No bind found for key '$'.
+No bind found for key '߁'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '$'.
+No bind found for key 'ț'.
+No bind found for key ' '.
+No bind found for key ''.
+No bind found for key '$'.
+No bind found for key '͹'.
+No bind found for key '0x12    '.
+No bind found for key '´'.
+No bind found for key 'Ì'.
+No bind found for key 'í'.
+No bind found for key 'ö'.
+No bind found for key ''.
+No bind found for key 'Ø'.
+No bind found for key 'g'.
+No bind found for key 'դ'.
+No bind found for key 'õ'.
+No bind found for key 'Î'.
+No bind found for key 'ϸ'.
+No bind found for key 'à'.
+No bind found for key '0x2     '.
+No bind found for key '0x7     '.
+No bind found for key 'Ê'.
+No bind found for key '?'.
+No bind found for key 'Ó'.
+No bind found for key 'Â'.
+No bind found for key 'þ'.
+No bind found for key 'Þ'.
+No bind found for key 'ë'.
+No bind found for key '°'.
+No bind found for key 'ç'.
+No bind found for key 'ÿ'.
+No bind found for key '×'.
+No bind found for key 'H'.
+No bind found for key 'Ú'.
+No bind found for key 'î'.
+No bind found for key ' '.
+No bind found for key 'K'.
+No bind found for key 'ò'.
+No bind found for key ''.
+No bind found for key '¿'.
+No bind found for key 'R'.
+No bind found for key ','.
+No bind found for key '»'.
+No bind found for key 'ý'.
+No bind found for key ''.
+No bind found for key 'í'.
+No bind found for key 'ö'.
+No bind found for key ''.
+No bind found for key 'ޮ'.
+No bind found for key '0x13    '.
+No bind found for key '`'.
+No bind found for key ''.
+No bind found for key 'É'.
+No bind found for key ''.
+No bind found for key 'Þ'.
+No bind found for key 'R'.
+No bind found for key '0x10    '.
+No bind found for key 'å'.
+No bind found for key 'H'.
+No bind found for key 'O'.
+No bind found for key 'ñ'.
+No bind found for key ''.
+No bind found for key '0       '.
+No bind found for key '0x6     '.
+No bind found for key 'Ö'.
+No bind found for key 'å'.
+No bind found for key 'B'.
+No bind found for key ''.
+No bind found for key '£'.
+No bind found for key 'å'.
+No bind found for key 'ÿ'.
+No bind found for key '0x14    '.
+No bind found for key '0x1e    '.
+No bind found for key '0x19    '.
+No bind found for key '­'.
+No bind found for key 'g'.
+No bind found for key 'B'.
+No bind found for key 'ì'.
+No bind found for key '¬'.
+No bind found for key '0x1a    '.
+No bind found for key ''.
+No bind found for key '%'.
+No bind found for key '²'.
+No bind found for key 'E'.
+No bind found for key ','.
+No bind found for key 'â'.
+No bind found for key 'û'.
+No bind found for key '''.
+No bind found for key 'Õ'.
+No bind found for key 'è'.
+No bind found for key ''.
+No bind found for key 'y'.
+No bind found for key ''.
+No bind found for key '²'.
+No bind found for key '¶'.
+No bind found for key 'ݼ'.
+No bind found for key '0xc     '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'ҁ'.
+No bind found for key 'Ó'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'ª'.
+No bind found for key ''.
+No bind found for key ','.
+No bind found for key 'þ'.
+No bind found for key 'L'.
+No bind found for key 'ø'.
+No bind found for key '0x13    '.
+No bind found for key ''.
+No bind found for key 'Ͽ'.
+No bind found for key '0x1c    '.
+No bind found for key ''.
+No bind found for key 'կ'.
+No bind found for key ''.
+No bind found for key 'ö'.
+No bind found for key 'Z'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '«'.
+No bind found for key ''.
+No bind found for key '?'.
+No bind found for key ''.
+No bind found for key '·'.
+No bind found for key 'Ù'.
+No bind found for key 'ÿ'.
+No bind found for key ''.
+No bind found for key 'ê'.
+No bind found for key '&'.
+No bind found for key 'à'.
+No bind found for key '¡'.
+No bind found for key 'ë'.
+No bind found for key '«'.
+No bind found for key '׳'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '¹'.
+No bind found for key '¿'.
+No bind found for key 'õ'.
+No bind found for key 'H'.
+No bind found for key 'æ'.
+No bind found for key ''.
+No bind found for key 'g'.
+No bind found for key '¡'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'À'.
+No bind found for key '­'.
+No bind found for key '°'.
+No bind found for key 'ö'.
+No bind found for key '0x1a    '.
+No bind found for key 'µ'.
+No bind found for key ''.
+No bind found for key 'ï'.
+No bind found for key 'M'.
+No bind found for key ''.
+No bind found for key 'í'.
+No bind found for key '0xe     '.
+No bind found for key '£'.
+No bind found for key '·'.
+No bind found for key 'Ã'.
+No bind found for key 'î'.
+No bind found for key '0xb     '.
+No bind found for key 'û'.
+No bind found for key '¹'.
+No bind found for key '´'.
+No bind found for key '0x19    '.
+No bind found for key 'ý'.
+No bind found for key '0x13    '.
+No bind found for key 'è'.
+No bind found for key '£'.
+No bind found for key '0x11    '.
+No bind found for key ''.
+No bind found for key 'ީ'.
+No bind found for key 'î'.
+No bind found for key 'O'.
+No bind found for key '0x1c    '.
+No bind found for key '0xe     '.
+No bind found for key 'Ò'.
+No bind found for key 'Ä'.
+No bind found for key '|'.
+No bind found for key 'Y'.
+No bind found for key '£'.
+No bind found for key 'Ö'.
+No bind found for key 'Ç'.
+No bind found for key 'Ö'.
+No bind found for key 'ۀ'.
+No bind found for key 'Ê'.
+No bind found for key '0x1e    '.
+No bind found for key '''.
+No bind found for key '²'.
+No bind found for key '0xf     '.
+No bind found for key 'Ì'.
+No bind found for key '0x14    '.
+No bind found for key 'í'.
+No bind found for key 'E'.
+No bind found for key '0x6     '.
+No bind found for key '°'.
+No bind found for key 'â'.
+No bind found for key 'å'.
+No bind found for key 'ù'.
+No bind found for key 'Å'.
+No bind found for key ':'.
+No bind found for key 'O'.
+No bind found for key '0x17    '.
+No bind found for key '¼'.
+No bind found for key 'ô'.
+No bind found for key '0xc     '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '0xc     '.
+No bind found for key 'â'.
+No bind found for key '`'.
+No bind found for key '®'.
+No bind found for key '©'.
+No bind found for key '¥'.
+No bind found for key ''.
+No bind found for key '¥'.
+No bind found for key 'Ð'.
+No bind found for key ''.
+No bind found for key '÷'.
+No bind found for key 'ì'.
+No bind found for key '~'.
+No bind found for key '&'.
+No bind found for key '\'.
+No bind found for key 'O'.
+No bind found for key '¤'.
+No bind found for key '¸'.
+No bind found for key '0x3     '.
+No bind found for key 'â'.
+No bind found for key 'L'.
+No bind found for key 'N'.
+No bind found for key 'ú'.
+No bind found for key 'ú'.
+No bind found for key '¿'.
+No bind found for key ''.
+No bind found for key '?'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'È'.
+No bind found for key '0x2     '.
+No bind found for key ''.
+No bind found for key '0x7     '.
+No bind found for key 'Y'.
+No bind found for key '0       '.
+No bind found for key '¯'.
+No bind found for key '''.
+No bind found for key 'ò'.
+No bind found for key 'y'.
+No bind found for key 'õ'.
+No bind found for key 'Ø'.
+No bind found for key 'ά'.
+No bind found for key 'N'.
+No bind found for key '''.
+No bind found for key '¾'.
+No bind found for key ''.
+No bind found for key '0xb     '.
+No bind found for key '0x1f    '.
+No bind found for key ''.
+No bind found for key '°'.
+No bind found for key ''.
+No bind found for key 'E'.
+No bind found for key '"'.
+No bind found for key 'û'.
+No bind found for key 'E'.
+No bind found for key 'í'.
+No bind found for key 'É'.
+No bind found for key 'Ô'.
+No bind found for key '?'.
+No bind found for key 'Í'.
+No bind found for key 'È'.
+No bind found for key 'ù'.
+No bind found for key ''.
+No bind found for key 'Ù'.
+No bind found for key 'Î'.
+No bind found for key 'Þ'.
+No bind found for key 'ò'.
+No bind found for key 'þ'.
+No bind found for key 'ú'.
+No bind found for key '&'.
+No bind found for key ';'.
+No bind found for key 'Ê'.
+No bind found for key '¡'.
+No bind found for key '0x1a    '.
+No bind found for key 'Ø'.
+No bind found for key ''.
+No bind found for key 'G'.
+No bind found for key 'Ý'.
+No bind found for key ''.
+No bind found for key '?'.
+No bind found for key '֎'.
+No bind found for key 'ñ'.
+No bind found for key 'Ø'.
+No bind found for key 'Å'.
+No bind found for key '0x1e    '.
+No bind found for key '̠'.
+No bind found for key 'À'.
+No bind found for key 'Þ'.
+No bind found for key 'ú'.
+No bind found for key '0x1a    '.
+No bind found for key ''.
+No bind found for key '0x1b    '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '0x14    '.
+No bind found for key '½'.
+No bind found for key '0xc     '.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'Þ'.
+No bind found for key '0xf     '.
+No bind found for key '£'.
+No bind found for key '0x1d    '.
+No bind found for key '£'.
+No bind found for key 'ð'.
+No bind found for key '"'.
+No bind found for key '¦'.
+No bind found for key '0x12    '.
+No bind found for key '0x17    '.
+No bind found for key '¼'.
+No bind found for key 'æ'.
+No bind found for key 'Ü'.
+No bind found for key '0xf     '.
+No bind found for key 'B'.
+No bind found for key 'G'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'å'.
+No bind found for key 'Î'.
+No bind found for key 'ڙ'.
+No bind found for key '¶'.
+No bind found for key '¨'.
+No bind found for key 'ø'.
+No bind found for key 'µ'.
+No bind found for key 'å'.
+No bind found for key 'î'.
+No bind found for key '«'.
+No bind found for key '$'.
+No bind found for key ''.
+No bind found for key '­'.
+No bind found for key '÷'.
+No bind found for key ''.
+No bind found for key '؆'.
+No bind found for key ''.
+No bind found for key '¤'.
+No bind found for key '͇'.
+No bind found for key '˶'.
+No bind found for key 'Ñ'.
+No bind found for key '0x1f    '.
+No bind found for key 'Û'.
+No bind found for key 'y'.
+No bind found for key 'y'.
+No bind found for key 'å'.
+No bind found for key 'é'.
+No bind found for key '^'.
+No bind found for key 'ê'.
+No bind found for key 'Ý'.
+No bind found for key '''.
+No bind found for key ''.
+No bind found for key 'Ë'.
+No bind found for key '0xf     '.
+No bind found for key 'ò'.
+No bind found for key 'ç'.
+No bind found for key 'g'.
+No bind found for key ''.
+No bind found for key 'ä'.
+No bind found for key 'ç'.
+No bind found for key ''.
+No bind found for key '$'.
+No bind found for key '`'.
+No bind found for key '0xc     '.
+No bind found for key ''.
+No bind found for key 'Ï'.
+No bind found for key 'ö'.
+No bind found for key 'Ô'.
+No bind found for key '0x13    '.
+No bind found for key '¨'.
+No bind found for key 'À'.
+No bind found for key 'á'.
+No bind found for key '¾'.
+No bind found for key 'ÿ'.
+No bind found for key 'Û'.
+No bind found for key '§'.
+No bind found for key 'ӳ'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key '0xf     '.
+No bind found for key 'ø'.
+No bind found for key ''.
+No bind found for key 'È'.
+No bind found for key ''.
+No bind found for key '»'.
+No bind found for key ''.
+No bind found for key '0x6     '.
+No bind found for key 'å'.
+No bind found for key ''.
+No bind found for key '0x10    '.
+No bind found for key 'Ù'.
+No bind found for key 'Ù'.
+No bind found for key '$'.
+No bind found for key ''.
+No bind found for key 'O'.
+No bind found for key '¾'.
+No bind found for key ''.
+No bind found for key '¶'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'ö'.
+No bind found for key ''.
+No bind found for key ''.
+No bind found for key 'Տ'.
+No bind found for key ''.
+No bind found for key 'â'.
+No bind found for key '¨'.
+No bind found for key '^'.
+No bind found for key 'Ø'.
+No bind found for key '0xc     '.
+No bind found for key 'Ô'.
+No bind found for key 'Ñ'.
+No bind found for key '&'.
+No bind found for key '´'.
+No bind found for key ''.
+No bind found for key '´'.
+No bind found for key '­'.
+No bind found for key ''.
+No bind found for key 'B'.
+No bind found for key 'R'.
+No bind found for key 'û'.
+No bind found for key '·'.
+No bind found for key '¥'.
+No bind found for key '0x17    '.
+No bind found for key 'Ò'.
+No bind found for key 'Î'.
+No bind found for key '0x12    '.
+No bind found for key '¼'.
+No bind found for key ''.
+No bind found for key ' '.
+No bind found for key ''.
+No bind found for key 'Ó'.
+No bind found for key 'ã'.
+No bind found for key ''.
+No bind found for key '0x3     '.
+No bind found for key '0x19    '.
+No bind found for key 'Z'.
+No bind found for key '$'.
+No bind found for key '0x7     '.
+No bind found for key 'ú'.
+No bind found for key 'ã'.
+No bind found for key ''.
+No bind found for key '?'.
+No bind found for key ''.
+No bind found for key 'ª'.
+No bind found for key ''.
+No bind found for key 'º'.
+No bind found for key 'ò'.
+No bind found for key 'ò'.
+No bind found for key 'ª'.
+No bind found for key ''.
+No bind found for key '¢'.
+No bind found for key 'á'.
+No bind found for key 'Û'.
+No bind found for key 'Ù'.
+No bind found for key 'g'.
+No bind found for key '0x10    '.
+No bind found for key '0       '.
+No bind found for key 'þ'.
+No bind found for key 'â'.
+No bind found for key '×'.
+No bind found for key 'N'.
+No bind found for key 'B'.
+No bind found for key 'O'.
+No bind found for key 'y'.
+No bind found for key '²'.
+No bind found for key ''.
+No bind found for key '¼'.
+No bind found for key ''.
+No bind found for key ','.
+No bind found for key ':'.
+No bind found for key 'Ê'.
+No bind found for key '0x19    '.
+No bind found for key ''.
+No bind found for key 'Ñ'.
+No bind found for key '\'.
+No bind found for key '0x6     '.
+No bind found for key 'Ì'.
+No bind found for key ':'.
+No bind found for key ''.
+No bind found for key 'N'.
+No bind found for key 'ç'.
+No bind found for key 'à'.
+No bind found for key 'þ'.
+No bind found for key '¸'.
+No bind found for key ''.
+No bind found for key 'î'.
+No bind found for key 'Ş'.
+No bind found for key ''.
+No bind found for key 'ô'.
+No bind found for key '«'.
+No bind found for key 'ó'.
+No bind found for key 'Ú'.
+No bind found for key 'Ú'.
+No bind found for key '0x14    '.
+No bind found for key 'æ'.
+No bind found for key '0x1e    '.
+No bind found for key '^'.
+No bind found for key ''.
+No bind found for key '½'.
+No bind found for key '©'.
+No bind found for key '¨'.
+No bind found for key '0       '.
+No bind found for key 'ñ'.
+No bind found for key 'ò'.
+No bind found for key '°'.
+No bind found for key '~'.
+No bind found for key ''.
+No bind found for key '0x1a    '.
+No bind found for key 'ۖ'.
+No bind found for key 'Þ'.
+No bind found for key 'N'.
+No bind found for key '0x6     '.
+No bind found for key 'æ'.
+No bind found for key '¡'.
+No bind found for key ''.
+No bind found for key 'Ú'.
+No bind found for key '֢'.
+No bind found for key ''.
+No bind found for key 'ú'.
+No bind found for key '0x3     '.
+No bind found for key 'ý'.
+No bind found for key ''.
+No bind found for key '±'.
+No bind found for key ' '.
+No bind found for key ''.
+No bind found for key '0x7     '.
+No bind found for key 'M'.
+No bind found for key ''.
+No bind found for key 'Ý'.
+No bind found for key 'ú'.
+No bind found for key '×'.
+No bind found for key 'þ'.
+No bind found for key 'Ê'.
+No bind found for key 'û'.
+No bind found for key ''.
+No bind found for key '¾'.
+No bind found for key '»'.
+No bind found for key 'Ê'.
+No bind found for key 'Æ'.
+No bind found for key ''.
+No bind found for key 'N'.
+No bind found for key 'N'.
+No bind found for key 'â'.
+No bind found for key 'ú'.
+No bind found for key 'Ï'.
+No bind found for key '|'.
+No bind found for key ':'.
+No bind found for key '0x6     '.
+No bind found for key 'õ'.
+No bind found for key ''.
+No bind found for key 'Ï'.
+No bind found for key ''.
+No bind found for key 'O'.
+No bind found for key '³'.
+No bind found for key 'M'.
+No bind found for key '¹'.
+No bind found for key ''.
+No bind found for key '0       '.
+No bind found for key 'ä'.
+No bind found for key '|'.
+No bind found for key '·'.
+No bind found for key ''.

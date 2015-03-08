@@ -142,6 +142,8 @@ main ()
                 pushStatusToWebsite
                 #checkin
                 python "${OCS_CHECKIN_SCRIPT}" "closing"
+                # IRC
+                curl -X POST 127.0.0.1:9999/ --data '{"Service":"Occupancy","Data":"The space is now closed"}'
                 #logging
                 echo "$(date) set to CLOSED >> ${OCS_LOGFILE}"
             fi
@@ -159,7 +161,9 @@ main ()
                 #Tweet (not correct yet)
                 python /opt/uas/statustweet/statustweet.py "The space has been open since `cat ${OCS_TMP_STATUS}` #Unallocated" &>/dev/null
                 #IRC
-                nc "${OCS_IRC_IP}" "${OCS_IRC_PORT}" "!JSON" "{\"Service\":${OCS_IRC_SERVICE}, \"Key\":${OCS_IRC_KEY}, \"Data\":\"The space has been open since $(date '+%T %F').\"}" &>/dev/null
+                #nc "${OCS_IRC_IP}" "${OCS_IRC_PORT}" "!JSON" "{\"Service\":${OCS_IRC_SERVICE}, \"Key\":${OCS_IRC_KEY}, \"Data\":\"The space has been open since $(date '+%T %F').\"}" &>/dev/null
+                curl -X POST 127.0.0.1:9999/ --data '{"Service":"Occupancy","Data":"The space is now open"}'
+
                 #Wall image to website
                 getWallPicture
                 pushWallToWebsite

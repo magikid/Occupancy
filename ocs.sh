@@ -180,6 +180,8 @@ main ()
                 echo "$(date) set to OPEN >> ${OCS_LOGFILE}"
             fi
         fi
+        
+        sleep 10
     done
 
     # We'll probably never reach here properly, but if we do, clean up the PID file.

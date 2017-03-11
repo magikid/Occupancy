@@ -8,6 +8,7 @@ IRC_BOTD="/opt/uas/Occupancy/ocs.sh"
 OPTIONS=""
 #Path to the bot's PID file e.g. /path/to/bot.pid
 pid_path=/var/run/ocs.pid
+webserver_pid_path=/var/run/ocs_webserver.pid
  
 do_start()
 {
@@ -15,7 +16,7 @@ do_start()
                 echo "Occupancy is already running, or it crashed and the pid file still exists! Try stop/restart, or removing the PID file first."
         else
                 echo "Starting UAS Occupancy."
-                nohup python /opt/uas/Occupancy/webserver.py &
+                nohup python /opt/uas/Occupancy/webserver.py &> /opt/uas/Occupancy_webserver.log &
                 nohup $IRC_BOTD $OPTIONS &> /opt/uas/Occupancy.log &
                 if [ $? -eq 0 ]; then
                         echo "UAS Occupancy successfully started."
@@ -30,7 +31,7 @@ do_start()
 do_status()
 {
         if [ -f $pid_path ]; then
-                echo "UAS Occupancy is running with a pid of `cat $pid_path`"
+                echo "UAS Occupancy is running with a pid of `cat $pid_path`. UAS Occupancy webserver is running with a pid of `cat $webserver_pid_path`."
         else
                 echo "UAS Occupancy is not running, or has not generated a pid file."
         fi
@@ -42,6 +43,7 @@ do_stop()
     echo "Stopping UAS IRC bot"
         if [ -f $pid_path ]; then
                 kill -6 `cat $pid_path` 2> /dev/null
+                kill -6 `cat $webserver_pid_path` 2> /dev/null
                 if [ $? -eq 0 ]; then
                         echo "UAS Occupancy stopped."
                         logger "Gracefully killed UAS Occupancy."
@@ -51,6 +53,7 @@ do_stop()
         else
                 echo "UAS Occupancy is not running, or has not generated a pid file."
         fi
+    rm $webserver_pid_path
     rm $pid_path
     return 0
 }

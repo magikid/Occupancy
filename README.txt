@@ -9,6 +9,7 @@ Get running notes:
 * add file permissions to source the config file using 'chmod 744 ocs.cfg'
 * add file permissions to play the WAV files
 * make sure the right variables have quotes in the config file.
+* for web-based override, use apache to serve the "www" folder in a local network (NOT publicly accessible internet) 
 
 Dependencies: (commands that need to be run)
 wget
@@ -20,6 +21,9 @@ ftp
 nc
 grep
 mplayer
+apache2
+php
+libapache2-mod-php
 
 2014-11-08 Update
 Currently not working: 

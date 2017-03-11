@@ -49,6 +49,13 @@ getWallPicture ()
     sleep 1
 }
 
+# checkOverride()
+# Get the current override status from the website
+checkOverride()
+{
+  [ -f ${OVERRIDE_FILE} ] || [ lsusb | grep "${OCS_OVERRIDE_LSUSB_VALUE}" ]
+}
+
 # getBrightness()
 # Use camera to determine ceiling_light brightness level
 #   * sets $level variable
@@ -131,7 +138,7 @@ main ()
         getBrightness
         
         # Override check
-        if lsusb | grep "${OCS_OVERRIDE_LSUSB_VALUE}" ; then
+        if checkOverride(); then
             is_overridden=true
         else
             is_overridden=false

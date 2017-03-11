@@ -15,6 +15,7 @@ do_start()
                 echo "Occupancy is already running, or it crashed and the pid file still exists! Try stop/restart, or removing the PID file first."
         else
                 echo "Starting UAS Occupancy."
+                nohup python /opt/uas/Occupancy/webserver.py &
                 nohup $IRC_BOTD $OPTIONS &> /opt/uas/Occupancy.log &
                 if [ $? -eq 0 ]; then
                         echo "UAS Occupancy successfully started."

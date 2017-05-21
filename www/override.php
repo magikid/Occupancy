@@ -2,7 +2,7 @@
 define("OVERRIDE_ON", "override_on");
 define("OVERRIDE_OFF", "override_disabled");
 define("OCCUPANCY_RESTART_COMMAND", "/opt/ocs/Occupancy restart");
-define("OVERRIDE_FLAG_FILE", "/opt/uas/Occupancy/override.txt");
+define("OVERRIDE_FLAG_FILE", "/opt/uas/Occupancy/www/override.txt");
 
 function readStatus() {
 	$fileExists = file_exists(OVERRIDE_FLAG_FILE);

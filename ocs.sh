@@ -138,7 +138,7 @@ main ()
         getBrightness
         
         # Override check
-        if checkOverride(); then
+        if checkOverride; then
             is_overridden=true
         else
             is_overridden=false

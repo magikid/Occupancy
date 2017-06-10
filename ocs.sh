@@ -40,12 +40,11 @@ getWallPicture ()
     sleep 1
 }
 
-# checkOverride()
+# currentlyOpen()
 # Get the current override status from the website
-checkOverride()
+currentlyOpen()
 {
-  find_usb=$(lsusb | grep "${OCS_OVERRIDE_LSUSB_VALUE}")
-  [ -f "${OCS_OVERRIDE_FILE}" ] || [ "$find_usb" ]
+  [ -f "${OCS_OVERRIDE_FILE}" ]
 }
 
 ###############################################################################
@@ -81,10 +80,10 @@ pushWallToWebsite ()
         quit
 END_FTP_COMMANDS
 
-    nc "${OCS_IRC_IP}" "${OCS_IRC_PORT}" \
-      "!JSON" \
-      "{\"Service\":${OCS_IRC_SERVICE}, \"Key\":${OCS_IRC_KEY}, \"Data\":\"New Wall Image: http://${OCS_UAS_WALL_ARCHIVE_FILEPATH}/${stamp}.jpg\"}" \
-      &>/dev/null
+    #nc "${OCS_IRC_IP}" "${OCS_IRC_PORT}" \
+    #  "!JSON" \
+    #  "{\"Service\":${OCS_IRC_SERVICE}, \"Key\":${OCS_IRC_KEY}, \"Data\":\"New Wall Image: http://${OCS_UAS_WALL_ARCHIVE_FILEPATH}/${stamp}.jpg\"}" \
+    #  &>/dev/null
 }
 
 # openTheSpace()
@@ -102,7 +101,7 @@ openTheSpace()
   python /opt/uas/statustweet/statustweet.py "$(cat "${OCS_TMP_STATUS}") #Unallocated" &>/dev/null
 
   # IRC
-  curl -X POST 127.0.0.1:9999/ --data '{"Service":"Occupancy","Data":"The space is now open"}'
+  #curl -X POST 127.0.0.1:9999/ --data '{"Service":"Occupancy","Data":"The space is now open"}'
 
   #Wall image to website
   getWallPicture
@@ -119,11 +118,11 @@ closeTheSpace()
   #website status
   pushStatusToWebsite
   #checkin
-  python "${OCS_CHECKIN_SCRIPT}" "closing"
+  #python "${OCS_CHECKIN_SCRIPT}" "closing"
   # Twitter
   python /opt/uas/statustweet/statustweet.py "$(cat "${OCS_TMP_STATUS}") #Unallocated" &>/dev/null
   # IRC
-  curl -X POST 127.0.0.1:9999/ --data '{"Service":"Occupancy","Data":"The space is now closed"}'
+  #curl -X POST 127.0.0.1:9999/ --data '{"Service":"Occupancy","Data":"The space is now closed"}'
 }
 
 # cleanUp()
@@ -144,7 +143,6 @@ cleanUp()
 
 main ()
 {
-
     # Write the PID to file for the service script
     echo $BASHPID > "${OCS_PID_FILE_PATH}"
 
@@ -154,17 +152,25 @@ main ()
     #Inital values/flags
     log "STARTING ocs.sh"
 
+    previouslyOpen=false
+
     #Loop
     while true; do
-        if checkOverride; then
-          openTheSpace
-          log "Space is OPEN"
-        else
-          closeTheSpace
-          log "Space is CLOSED"
-        fi
+      if currentlyOpen && $previouslyOpen ; then
+        : # do nothing
+      elif ! currentlyOpen && $previouslyOpen ; then
+        closeTheSpace
+        log "Space is CLOSED"
+        previouslyOpen=false
+      elif currentlyOpen && ! $previouslyOpen; then
+        openTheSpace
+        log "Space is OPEN"
+        previouslyOpen=true
+      elif ! currentlyOpen && ! $previouslyOpen; then
+        : # do nothing
+      fi
 
-        sleep "${OCS_DELAY}"
+      sleep "${OCS_DELAY}"
     done
 
     # We'll probably never reach here properly, but if we do, clean up the PID file.
@@ -180,3 +186,5 @@ log "starting main"
 main
 
 exit 0
+
+

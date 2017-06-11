@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set configurable variables
-source "ocs.cfg"
+source "/opt/uas/Occupancy/ocs.cfg"
 
 set -euo pipefail
 

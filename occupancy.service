@@ -1,0 +1,8 @@
+[Unit]
+After=network.target
+
+[Service]
+ExecStart=/opt/uas/Occupancy/ocs.sh
+
+[Install]
+WantedBy=default.target

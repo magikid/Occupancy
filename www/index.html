@@ -1,18 +1,27 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="/override.css">
+    <link rel="stylesheet" type="text/css" href="/occupancy.css">
     <script type="text/javascript" src='/lib/jquery-3.1.1.min.js'></script>
-    <script type="text/javascript" src='/override.js'></script>
+    <script type="text/javascript" src='/occupancy.js'></script>
   </head>
-  <body>
-    <div id='overrideOpen' class='overrideButton'>
-      <div class='currently'>Currently:</div>
-      <div class="buttonText">OPEN</div>
-    </div>
-    <div id='disableOverride' class='overrideButton'>
-      <div class='currently'>Currently:</div>
-      <div class="buttonText">CLOSE</div>
+  <body class='vcenter'>
+    <div id='occupancy'>
+	    <div id='statusDisplay' class='vcenter'>
+	      <div class='statusText'>
+		      The Space is currently<br>
+		      <div class='possibleStatus open displayNone'>Open</div>
+		      <div class='possibleStatus closed displayNone'>Closed</div>
+		      <div class='possibleStatus unknown'>Unknown Status</div>
+	      </div>
+	    </div>
+	    
+	    <div class='vcenter buttonWrapper'>
+	      <div id='openButton' class='button open'>Set to Open</div>
+	    </div>
+	    <div class='vcenter buttonWrapper'>
+	      <div id='closeButton' class='button close'>Set to Closed</div>
+	    </div>
     </div>
   </body>
 </html>

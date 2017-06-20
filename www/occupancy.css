@@ -1,0 +1,95 @@
+body {
+  font-family: "Verdana", sans-serif;
+  color: #333;
+  margin: 0 auto;
+  line-height: 1.5;
+  max-width: 50%;
+  background: white;
+  font-size: 28px;
+  line-height: 32px;
+  height: 100vh;
+}
+
+#occupancy {
+	text-align: center;
+}
+
+#statusDisplay {
+	text-align: center;
+	border-style: solid;
+	border-color: #eee;
+	border-width: 4px;
+	width: 608px;
+	height: 100px;
+}
+
+.buttonWrapper {
+	float: left;
+}
+
+.button {
+  margin: 10px auto;
+  
+  text-align: center;
+  cursor: pointer;
+  border-style: solid;
+  border-color: #eee;
+  
+  border-width: 4px;
+  
+  width: 300px;
+  height: 100px;
+}
+
+.button.active {
+	border-style: outset;
+	font-weight: bold;
+}
+
+#statusDisplay.open,
+.button.open {
+  background-color: #9e9;
+}
+
+.button.open.active {
+  background-color: #0f0;
+  border-color: #0f0;
+}
+
+#statusDisplay.closed,
+.button.close {
+  background-color: #f67575;
+}
+
+.button.close.active {
+  background-color: #f00;
+  border-color: #f00;
+}
+
+.displayNone {
+	display: none;
+}
+
+.possibleStatus {
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.vcenter {
+	display: table
+}
+
+.vcenter>* {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+#statusDisplay.open .possibleStatus.open,
+#statusDisplay.closed .possibleStatus.closed {
+	display: block;
+}
+
+#statusDisplay.open .possibleStatus.unknown,
+#statusDisplay.closed .possibleStatus.unknown {
+	display: none;
+}

@@ -14,6 +14,9 @@
 OCS_PID_FILE_PATH=/var/run/ocs.pid
 OCS_PID_WEBSERVER_PATH=/var/run/ocs_webserver.pid
 
+# Number of seconds between checks to see if the space is open or not
+OCS_DELAY=10
+
 # Logging file
 OCS_LOGFILE=/opt/uas/Occupancy/occupancy.log
 
@@ -31,7 +34,7 @@ OCS_UAS_WALL_ARCHIVE_FILEPATH=$OCS_UAS_URL/thewall/archive
 
 # Override
 OCS_OVERRIDE_LSUSB_VALUE="0781:5530"
-OCS_OVERRIDE_FILE=/opt/uas/Occupancy/override.txt
+OCS_OVERRIDE_FILE=/opt/uas/Occupancy/www/status.txt
 
 # Temporary File locations
 OCS_TMP_LIGHT=/tmp/ocs.jpg

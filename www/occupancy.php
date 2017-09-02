@@ -1,25 +1,25 @@
 <?php 
-define("OVERRIDE_ON", "override_on");
-define("OVERRIDE_OFF", "override_disabled");
+define("STATUS_OPEN", "open");
+define("STATUS_CLOSED", "closed");
 define("OCCUPANCY_RESTART_COMMAND", "/opt/ocs/Occupancy restart");
-define("OVERRIDE_FLAG_FILE", "/opt/uas/Occupancy/www/override.txt");
+define("STATUS_FLAG_FILE", "/opt/uas/Occupancy/www/status.txt");
 
 function readStatus() {
-	$fileExists = file_exists(OVERRIDE_FLAG_FILE);
+	$fileExists = file_exists(STATUS_FLAG_FILE);
 	if($fileExists) {
-		return OVERRIDE_ON;
+		return STATUS_OPEN;
 	}
-	return OVERRIDE_OFF;
+	return STATUS_CLOSED;
 }
 
 function writeStatus($status) {
-	if($status == OVERRIDE_ON) {
-		$writeResult = file_put_contents(OVERRIDE_FLAG_FILE, OVERRIDE_ON);
+	if($status == STATUS_OPEN) {
+		$writeResult = file_put_contents(STATUS_FLAG_FILE, STATUS_OPEN);
 		if($writeResult == FALSE) {
 			print "Failed to write to status file!"; exit;
 		}
 	} else {
-		$deleteResult = unlink(OVERRIDE_FLAG_FILE);
+		$deleteResult = unlink(STATUS_FLAG_FILE);
 		if($deleteResult == FALSE) {
 			print "Failed to delete status file!"; exit;
 		}
@@ -39,13 +39,13 @@ if($action == "status") {
 	print readStatus(); exit;
 }
 
-if($action == OVERRIDE_ON) {
-	writeStatus(OVERRIDE_ON);
+if($action == STATUS_OPEN) {
+	writeStatus(STATUS_OPEN);
 	print readStatus(); exit;
 }
 
-if($action == OVERRIDE_OFF) {
-	writeStatus(OVERRIDE_OFF);
+if($action == STATUS_CLOSED) {
+	writeStatus(STATUS_CLOSED);
 	print readStatus(); exit;
 }
 
